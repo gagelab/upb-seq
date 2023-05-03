@@ -1,0 +1,97 @@
+Sample_ID,Sample_Barcode,Library_ID,Plate_Number,Plate_barcode,Well,Sample_Name
+465-4,CGTACGTA,2,6,CGATGT,A01,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_465-4
+465-5,AGGAACGT,2,6,CGATGT,B01,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_465-5
+465-6,CTAGCTAG,2,6,CGATGT,C01,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_465-6
+465-7,CTCTCAGT,2,6,CGATGT,D01,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_465-7
+465-8,GTACTGCA,2,6,CGATGT,E01,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_465-8
+465-9,CTTCCATG,2,6,CGATGT,F01,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_465-9
+465-10,TACGAACC,2,6,CGATGT,G01,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_465-10
+465-11,TACCATGG,2,6,CGATGT,H01,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_465-11
+465-12,AGCTAGCT,2,6,CGATGT,A02,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_465-12
+466-1,AGGTAGGT,2,6,CGATGT,B02,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_466-1
+466-2,CAGTCAGT,2,6,CGATGT,C02,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_466-2
+466-3,CAAGCTTG,2,6,CGATGT,D02,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_466-3
+466-4,AACCTTGG,2,6,CGATGT,E02,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_466-4
+466-5,ATCGTAGC,2,6,CGATGT,F02,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_466-5
+466-6,CACTAGAC,2,6,CGATGT,G02,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_466-6
+466-7,GCTTCCTA,2,6,CGATGT,H02,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_466-7
+466-8,GCTTAACG,2,6,CGATGT,A03,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_466-8
+466-9,GTACCAAC,2,6,CGATGT,B03,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_466-9
+466-10,GAAGTCCT,2,6,CGATGT,C03,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_466-10
+466-11,CCAATACG,2,6,CGATGT,D03,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_466-11
+466-12,AGCTCTAG,2,6,CGATGT,E03,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_466-12
+466-13,CGTAGCTA,2,6,CGATGT,F03,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_466-13
+467-1,CTCTCACA,2,6,CGATGT,G03,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_467-1
+467-2,TGACCACA,2,6,CGATGT,H03,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_467-2
+467-3,ATCCGGTA,2,6,CGATGT,A04,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_467-3
+467-4,GACATCAC,2,6,CGATGT,B04,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_467-4
+467-5,TCGATGGT,2,6,CGATGT,C04,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_467-5
+467-6,CTGTCAGA,2,6,CGATGT,D04,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_467-6
+467-7,TGGTACGT,2,6,CGATGT,E04,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_467-7
+467-8,GATGCATC,2,6,CGATGT,F04,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_467-8
+467-9,CTTCCAAC,2,6,CGATGT,G04,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_467-9
+467-10,ACACGTGT,2,6,CGATGT,H04,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_467-10
+467-11,TAGGCCAT,2,6,CGATGT,A05,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_467-11
+467-12,CTGTACAG,2,6,CGATGT,B05,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8884-106_467-12
+468-1,TCGAGTTG,2,6,CGATGT,C05,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_468-1
+468-2,AAGGTTCC,2,6,CGATGT,D05,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_468-2
+468-3,GCCGTATA,2,6,CGATGT,E05,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_468-3
+468-4,ACCTGTTC,2,6,CGATGT,F05,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_468-4
+468-5,ACAGTCAC,2,6,CGATGT,G05,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_468-5
+468-6,GAGTTCTG,2,6,CGATGT,H05,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_468-6
+468-7,GCTACGAT,2,6,CGATGT,A06,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_468-7
+468-8,CTAGAGCT,2,6,CGATGT,B06,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_468-8
+468-9,ACTGACTG,2,6,CGATGT,C06,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_468-9
+468-10,GGAAGCAT,2,6,CGATGT,D06,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_468-10
+468-11,CCATATGG,2,6,CGATGT,E06,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_468-11
+468-12,CAGTTGAC,2,6,CGATGT,F06,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_468-12
+468-13,ACACGTCA,2,6,CGATGT,G06,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_468-13
+469-1,ACCAACGT,2,6,CGATGT,H06,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_469-1
+469-2,GATCAGCT,2,6,CGATGT,A07,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_469-2
+469-3,CGTAGCAT,2,6,CGATGT,B07,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_469-3
+469-4,GTGTTGAC,2,6,CGATGT,C07,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_469-4
+469-5,AGTGTCTG,2,6,CGATGT,D07,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_469-5
+469-6,TGGTCATG,2,6,CGATGT,E07,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_469-6
+469-7,ACTGTGAC,2,6,CGATGT,F07,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_469-7
+469-8,CTTGTCCA,2,6,CGATGT,G07,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_469-8
+469-9,CGATCGAT,2,6,CGATGT,H07,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_469-9
+469-10,AACGTTGC,2,6,CGATGT,A08,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_469-10
+469-11,TGCACAAC,2,6,CGATGT,B08,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_469-11
+469-12,CTCTACAC,2,6,CGATGT,C08,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_469-12
+469-13,GCTATTCC,2,6,CGATGT,D08,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_469-13
+469-14,CCTAATCC,2,6,CGATGT,E08,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_469-14
+470-1,CATGCTTC,2,6,CGATGT,F08,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_470-1
+470-2,TGACGTGT,2,6,CGATGT,G08,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_470-2
+470-3,ACCACATG,2,6,CGATGT,H08,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_470-3
+470-4,GACTTCAG,2,6,CGATGT,A09,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_470-4
+470-5,ACCAAGGA,2,6,CGATGT,B09,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_470-5
+470-6,GCCGTTAA,2,6,CGATGT,C09,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_470-6
+470-7,TGACTGAC,2,6,CGATGT,D09,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_470-7
+470-8,TGGTGTAC,2,6,CGATGT,E09,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_470-8
+470-9,GTACAGCT,2,6,CGATGT,F09,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_470-9
+470-10,GGTTCCAA,2,6,CGATGT,G09,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_470-10
+470-11,GAGACACA,2,6,CGATGT,H09,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_470-11
+470-12,GAGTTCAC,2,6,CGATGT,A10,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_470-12
+470-13,GCGCTATA,2,6,CGATGT,B10,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_470-13
+471-1,GTGAACAG,2,6,CGATGT,C10,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_471-1
+471-2,TGCACTAG,2,6,CGATGT,D10,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_471-2
+471-3,AACCGGTT,2,6,CGATGT,E10,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_471-3
+471-4,ATCCTAGG,2,6,CGATGT,F10,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_471-4
+471-5,CAACCTAG,2,6,CGATGT,G10,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_471-5
+471-6,AGTGGTCT,2,6,CGATGT,H10,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_471-6
+471-7,GGATTAGG,2,6,CGATGT,A11,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_471-7
+471-8,GAACCATC,2,6,CGATGT,B11,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_471-8
+471-9,ATGCATGC,2,6,CGATGT,C11,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_471-9
+471-10,GATCCTAG,2,6,CGATGT,D11,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_471-10
+471-11,CAACGTAC,2,6,CGATGT,E11,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_471-11
+471-12,GAAGCTTC,2,6,CGATGT,F11,ftsi x (Mtsi/+) extracted from Teo. Col. 101 JKP8874x8885-114_471-12
+Blank-6-G11,TAGCTACG,2,6,CGATGT,G11,Blank_Blank-6-G11
+Blank-6-H11,GAACTGCT,2,6,CGATGT,H11,Blank_Blank-6-H11
+Blank-6-A12,TGGTCTAG,2,6,CGATGT,A12,Blank_Blank-6-A12
+Blank-6-B12,CTACCATC,2,6,CGATGT,B12,Blank_Blank-6-B12
+Blank-6-C12,TCCAAGGT,2,6,CGATGT,C12,Blank_Blank-6-C12
+Blank-6-D12,CTCATGAG,2,6,CGATGT,D12,Blank_Blank-6-D12
+Blank-6-E12,GAGACAGT,2,6,CGATGT,E12,Blank_Blank-6-E12
+Blank-6-F12,GTGTCACA,2,6,CGATGT,F12,Blank_Blank-6-F12
+Blank-6-G12,GACATCTG,2,6,CGATGT,G12,Blank_Blank-6-G12
+Blank-6-H12,CACATGTG,2,6,CGATGT,H12,Blank_Blank-6-H12

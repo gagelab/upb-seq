@@ -1,0 +1,7 @@
+name: demultiplex_fastqs
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - fgbio=1.3.0
