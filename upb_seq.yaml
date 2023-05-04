@@ -1,0 +1,11 @@
+name: upb_seq
+channels:
+- bioconda
+- conda-forge
+- defaults
+dependencies:
+- fgbio=1.3.0
+- freebayes
+- hisat2
+- samtools
+

@@ -11,8 +11,8 @@ set -euxo pipefail
 
 # First, make sure you are running this in an environment with the software
 #  we need. If this has not been created yet, make it with the .yaml file 
-#  in this directory, e.g.: micromamba create -f demultiplex_fastqs.yaml
-# Then, activate with: micromamba activate demultiplex_fastqs
+#  in the top directory, e.g.: micromamba create -f udp_seq.yaml
+# Then, activate with: micromamba activate udp_seq
 
 # Can set these variables if running on a different computer or want
 #  to output results to a different directory.
@@ -57,6 +57,6 @@ do
     --output $OUTPREFIX \
     --metrics $OUTMETRICS \
     --threads $(nproc) \
-    --output-type Fastq
+    --output-type Fastq &
   
 done
