@@ -1,0 +1,768 @@
+/mnt/ghowl/upb-seq/align/bams//425-1-W22_ftsi_isolate_D_425-1-CGTACGTA.bam
+/mnt/ghowl/upb-seq/align/bams//425-2-W22_ftsi_isolate_D_425-2-AGGAACGT.bam
+/mnt/ghowl/upb-seq/align/bams//425-3-W22_ftsi_isolate_D_425-3-CTAGCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//426-1-W22_ftsi_isolate_E_426-1-CTCTCAGT.bam
+/mnt/ghowl/upb-seq/align/bams//426-2-W22_ftsi_isolate_E_426-2-GTACTGCA.bam
+/mnt/ghowl/upb-seq/align/bams//426-3-W22_ftsi_isolate_E_426-3-CTTCCATG.bam
+/mnt/ghowl/upb-seq/align/bams//427-1-W22_ftsi_isolate_F_427-1-TACGAACC.bam
+/mnt/ghowl/upb-seq/align/bams//427-2-W22_ftsi_isolate_F_427-2-TACCATGG.bam
+/mnt/ghowl/upb-seq/align/bams//427-3-W22_ftsi_isolate_F_427-3-AGCTAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//428-1-W22_r-g_428-1-AGGTAGGT.bam
+/mnt/ghowl/upb-seq/align/bams//428-2-W22_r-g_428-2-CAGTCAGT.bam
+/mnt/ghowl/upb-seq/align/bams//428-3-W22_r-g_428-3-CAAGCTTG.bam
+/mnt/ghowl/upb-seq/align/bams//429-1-Early_W22_X_Chalco_teo._101-1__source_of_Mtsi__429-1-AACCTTGG.bam
+/mnt/ghowl/upb-seq/align/bams//429-2-Early_W22_X_Chalco_teo._101-1__source_of_Mtsi__429-2-ATCGTAGC.bam
+/mnt/ghowl/upb-seq/align/bams//429-3-Early_W22_X_Chalco_teo._101-1__source_of_Mtsi__429-3-CACTAGAC.bam
+/mnt/ghowl/upb-seq/align/bams//430-1-Sib_seed_of_the_parent_of_JK96-234_430-1-GCTTCCTA.bam
+/mnt/ghowl/upb-seq/align/bams//430-2-Sib_seed_of_the_parent_of_JK96-235_430-2-GCTTAACG.bam
+/mnt/ghowl/upb-seq/align/bams//430-3-Sib_seed_of_the_parent_of_JK96-236_430-3-GTACCAAC.bam
+/mnt/ghowl/upb-seq/align/bams//431-1-B73__Kermicle_version__431-1-GAAGTCCT.bam
+/mnt/ghowl/upb-seq/align/bams//431-2-B73__Kermicle_version__431-2-CCAATACG.bam
+/mnt/ghowl/upb-seq/align/bams//431-3-B73__Kermicle_version__431-3-AGCTCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//431-4-B73__Kermicle_version__431-4-CGTAGCTA.bam
+/mnt/ghowl/upb-seq/align/bams//431-5-B73__Kermicle_version__431-5-CTCTCACA.bam
+/mnt/ghowl/upb-seq/align/bams//432-1-W22_ftsi_isolate_B_432-1-TGACCACA.bam
+/mnt/ghowl/upb-seq/align/bams//432-2-W22_ftsi_isolate_B_432-2-ATCCGGTA.bam
+/mnt/ghowl/upb-seq/align/bams//432-3-W22_ftsi_isolate_B_432-3-GACATCAC.bam
+/mnt/ghowl/upb-seq/align/bams//432-4-W22_ftsi_isolate_B_432-4-TCGATGGT.bam
+/mnt/ghowl/upb-seq/align/bams//433-10-B73_x_W22_ftsi_isolate_B_F2_433-10-GCCGTATA.bam
+/mnt/ghowl/upb-seq/align/bams//433-11-B73_x_W22_ftsi_isolate_B_F2_433-11-ACCTGTTC.bam
+/mnt/ghowl/upb-seq/align/bams//433-12-B73_x_W22_ftsi_isolate_B_F2_433-12-ACAGTCAC.bam
+/mnt/ghowl/upb-seq/align/bams//433-13-B73_x_W22_ftsi_isolate_B_F2_433-13-GAGTTCTG.bam
+/mnt/ghowl/upb-seq/align/bams//433-14-B73_x_W22_ftsi_isolate_B_F2_433-14-GCTACGAT.bam
+/mnt/ghowl/upb-seq/align/bams//433-15-B73_x_W22_ftsi_isolate_B_F2_433-15-CTAGAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//433-16-B73_x_W22_ftsi_isolate_B_F2_433-16-ACTGACTG.bam
+/mnt/ghowl/upb-seq/align/bams//433-17-B73_x_W22_ftsi_isolate_B_F2_433-17-GGAAGCAT.bam
+/mnt/ghowl/upb-seq/align/bams//433-1-B73_x_W22_ftsi_isolate_B_F2_433-1-CTGTCAGA.bam
+/mnt/ghowl/upb-seq/align/bams//433-2-B73_x_W22_ftsi_isolate_B_F2_433-2-TGGTACGT.bam
+/mnt/ghowl/upb-seq/align/bams//433-3-B73_x_W22_ftsi_isolate_B_F2_433-3-GATGCATC.bam
+/mnt/ghowl/upb-seq/align/bams//433-4-B73_x_W22_ftsi_isolate_B_F2_433-4-CTTCCAAC.bam
+/mnt/ghowl/upb-seq/align/bams//433-5-B73_x_W22_ftsi_isolate_B_F2_433-5-ACACGTGT.bam
+/mnt/ghowl/upb-seq/align/bams//433-6-B73_x_W22_ftsi_isolate_B_F2_433-6-TAGGCCAT.bam
+/mnt/ghowl/upb-seq/align/bams//433-7-B73_x_W22_ftsi_isolate_B_F2_433-7-CTGTACAG.bam
+/mnt/ghowl/upb-seq/align/bams//433-8-B73_x_W22_ftsi_isolate_B_F2_433-8-TCGAGTTG.bam
+/mnt/ghowl/upb-seq/align/bams//433-9-B73_x_W22_ftsi_isolate_B_F2_433-9-AAGGTTCC.bam
+/mnt/ghowl/upb-seq/align/bams//434-10-B73_x_W22_ftsi_isolate_B_F2_434-10-ACTGTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//434-11-B73_x_W22_ftsi_isolate_B_F2_434-11-CTTGTCCA.bam
+/mnt/ghowl/upb-seq/align/bams//434-12-B73_x_W22_ftsi_isolate_B_F2_434-12-CGATCGAT.bam
+/mnt/ghowl/upb-seq/align/bams//434-13-B73_x_W22_ftsi_isolate_B_F2_434-13-AACGTTGC.bam
+/mnt/ghowl/upb-seq/align/bams//434-14-B73_x_W22_ftsi_isolate_B_F2_434-14-TGCACAAC.bam
+/mnt/ghowl/upb-seq/align/bams//434-15-B73_x_W22_ftsi_isolate_B_F2_434-15-CTCTACAC.bam
+/mnt/ghowl/upb-seq/align/bams//434-16-B73_x_W22_ftsi_isolate_B_F2_434-16-GCTATTCC.bam
+/mnt/ghowl/upb-seq/align/bams//434-1-B73_x_W22_ftsi_isolate_B_F2_434-1-CCATATGG.bam
+/mnt/ghowl/upb-seq/align/bams//434-2-B73_x_W22_ftsi_isolate_B_F2_434-2-CAGTTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//434-3-B73_x_W22_ftsi_isolate_B_F2_434-3-ACACGTCA.bam
+/mnt/ghowl/upb-seq/align/bams//434-4-B73_x_W22_ftsi_isolate_B_F2_434-4-ACCAACGT.bam
+/mnt/ghowl/upb-seq/align/bams//434-5-B73_x_W22_ftsi_isolate_B_F2_434-5-GATCAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//434-6-B73_x_W22_ftsi_isolate_B_F2_434-6-CGTAGCAT.bam
+/mnt/ghowl/upb-seq/align/bams//434-7-B73_x_W22_ftsi_isolate_B_F2_434-7-GTGTTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//434-8-B73_x_W22_ftsi_isolate_B_F2_434-8-AGTGTCTG.bam
+/mnt/ghowl/upb-seq/align/bams//434-9-B73_x_W22_ftsi_isolate_B_F2_434-9-TGGTCATG.bam
+/mnt/ghowl/upb-seq/align/bams//435-10-B73_x_W22_ftsi_isolate_B_F2_435-10-GTACAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//435-11-B73_x_W22_ftsi_isolate_B_F2_435-11-GGTTCCAA.bam
+/mnt/ghowl/upb-seq/align/bams//435-12-B73_x_W22_ftsi_isolate_B_F2_435-12-GAGACACA.bam
+/mnt/ghowl/upb-seq/align/bams//435-13-B73_x_W22_ftsi_isolate_B_F2_435-13-GAGTTCAC.bam
+/mnt/ghowl/upb-seq/align/bams//435-14-B73_x_W22_ftsi_isolate_B_F2_435-14-GCGCTATA.bam
+/mnt/ghowl/upb-seq/align/bams//435-15-B73_x_W22_ftsi_isolate_B_F2_435-15-GTGAACAG.bam
+/mnt/ghowl/upb-seq/align/bams//435-16-B73_x_W22_ftsi_isolate_B_F2_435-16-TGCACTAG.bam
+/mnt/ghowl/upb-seq/align/bams//435-1-B73_x_W22_ftsi_isolate_B_F2_435-1-CCTAATCC.bam
+/mnt/ghowl/upb-seq/align/bams//435-2-B73_x_W22_ftsi_isolate_B_F2_435-2-CATGCTTC.bam
+/mnt/ghowl/upb-seq/align/bams//435-3-B73_x_W22_ftsi_isolate_B_F2_435-3-TGACGTGT.bam
+/mnt/ghowl/upb-seq/align/bams//435-4-B73_x_W22_ftsi_isolate_B_F2_435-4-ACCACATG.bam
+/mnt/ghowl/upb-seq/align/bams//435-5-B73_x_W22_ftsi_isolate_B_F2_435-5-GACTTCAG.bam
+/mnt/ghowl/upb-seq/align/bams//435-6-B73_x_W22_ftsi_isolate_B_F2_435-6-ACCAAGGA.bam
+/mnt/ghowl/upb-seq/align/bams//435-7-B73_x_W22_ftsi_isolate_B_F2_435-7-GCCGTTAA.bam
+/mnt/ghowl/upb-seq/align/bams//435-8-B73_x_W22_ftsi_isolate_B_F2_435-8-TGACTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//435-9-B73_x_W22_ftsi_isolate_B_F2_435-9-TGGTGTAC.bam
+/mnt/ghowl/upb-seq/align/bams//436-10-B73_x_W22_ftsi_isolate_B_F2_436-10-GAAGCTTC.bam
+/mnt/ghowl/upb-seq/align/bams//436-11-B73_x_W22_ftsi_isolate_B_F2_436-11-TAGCTACG.bam
+/mnt/ghowl/upb-seq/align/bams//436-12-B73_x_W22_ftsi_isolate_B_F2_436-12-GAACTGCT.bam
+/mnt/ghowl/upb-seq/align/bams//436-13-B73_x_W22_ftsi_isolate_B_F2_436-13-TGGTCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//436-14-B73_x_W22_ftsi_isolate_B_F2_436-14-CTACCATC.bam
+/mnt/ghowl/upb-seq/align/bams//436-15-B73_x_W22_ftsi_isolate_B_F2_436-15-TCCAAGGT.bam
+/mnt/ghowl/upb-seq/align/bams//436-1-B73_x_W22_ftsi_isolate_B_F2_436-1-AACCGGTT.bam
+/mnt/ghowl/upb-seq/align/bams//436-2-B73_x_W22_ftsi_isolate_B_F2_436-2-ATCCTAGG.bam
+/mnt/ghowl/upb-seq/align/bams//436-3-B73_x_W22_ftsi_isolate_B_F2_436-3-CAACCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//436-4-B73_x_W22_ftsi_isolate_B_F2_436-4-AGTGGTCT.bam
+/mnt/ghowl/upb-seq/align/bams//436-5-B73_x_W22_ftsi_isolate_B_F2_436-5-GGATTAGG.bam
+/mnt/ghowl/upb-seq/align/bams//436-6-B73_x_W22_ftsi_isolate_B_F2_436-6-GAACCATC.bam
+/mnt/ghowl/upb-seq/align/bams//436-7-B73_x_W22_ftsi_isolate_B_F2_436-7-ATGCATGC.bam
+/mnt/ghowl/upb-seq/align/bams//436-8-B73_x_W22_ftsi_isolate_B_F2_436-8-GATCCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//436-9-B73_x_W22_ftsi_isolate_B_F2_436-9-CAACGTAC.bam
+/mnt/ghowl/upb-seq/align/bams//437-10-B73_x_W22_ftsi_isolate_B_F2_437-10-GTACTGCA.bam
+/mnt/ghowl/upb-seq/align/bams//437-11-B73_x_W22_ftsi_isolate_B_F2_437-11-CTTCCATG.bam
+/mnt/ghowl/upb-seq/align/bams//437-12-B73_x_W22_ftsi_isolate_B_F2_437-12-TACGAACC.bam
+/mnt/ghowl/upb-seq/align/bams//437-13-B73_x_W22_ftsi_isolate_B_F2_437-13-TACCATGG.bam
+/mnt/ghowl/upb-seq/align/bams//437-14-B73_x_W22_ftsi_isolate_B_F2_437-14-AGCTAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//437-1-B73_x_W22_ftsi_isolate_B_F2_437-1-CTCATGAG.bam
+/mnt/ghowl/upb-seq/align/bams//437-2-B73_x_W22_ftsi_isolate_B_F2_437-2-GAGACAGT.bam
+/mnt/ghowl/upb-seq/align/bams//437-3-B73_x_W22_ftsi_isolate_B_F2_437-3-GTGTCACA.bam
+/mnt/ghowl/upb-seq/align/bams//437-4-B73_x_W22_ftsi_isolate_B_F2_437-4-GACATCTG.bam
+/mnt/ghowl/upb-seq/align/bams//437-5-B73_x_W22_ftsi_isolate_B_F2_437-5-CACATGTG.bam
+/mnt/ghowl/upb-seq/align/bams//437-6-B73_x_W22_ftsi_isolate_B_F2_437-6-CGTACGTA.bam
+/mnt/ghowl/upb-seq/align/bams//437-7-B73_x_W22_ftsi_isolate_B_F2_437-7-AGGAACGT.bam
+/mnt/ghowl/upb-seq/align/bams//437-8-B73_x_W22_ftsi_isolate_B_F2_437-8-CTAGCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//437-9-B73_x_W22_ftsi_isolate_B_F2_437-9-CTCTCAGT.bam
+/mnt/ghowl/upb-seq/align/bams//438-10-B73_x_W22_ftsi_isolate_B_F2_438-10-GAAGTCCT.bam
+/mnt/ghowl/upb-seq/align/bams//438-11-B73_x_W22_ftsi_isolate_B_F2_438-11-CCAATACG.bam
+/mnt/ghowl/upb-seq/align/bams//438-12-B73_x_W22_ftsi_isolate_B_F2_438-12-AGCTCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//438-13-B73_x_W22_ftsi_isolate_B_F2_438-13-CGTAGCTA.bam
+/mnt/ghowl/upb-seq/align/bams//438-14-B73_x_W22_ftsi_isolate_B_F2_438-14-CTCTCACA.bam
+/mnt/ghowl/upb-seq/align/bams//438-1-B73_x_W22_ftsi_isolate_B_F2_438-1-AGGTAGGT.bam
+/mnt/ghowl/upb-seq/align/bams//438-2-B73_x_W22_ftsi_isolate_B_F2_438-2-CAGTCAGT.bam
+/mnt/ghowl/upb-seq/align/bams//438-3-B73_x_W22_ftsi_isolate_B_F2_438-3-CAAGCTTG.bam
+/mnt/ghowl/upb-seq/align/bams//438-4-B73_x_W22_ftsi_isolate_B_F2_438-4-AACCTTGG.bam
+/mnt/ghowl/upb-seq/align/bams//438-5-B73_x_W22_ftsi_isolate_B_F2_438-5-ATCGTAGC.bam
+/mnt/ghowl/upb-seq/align/bams//438-6-B73_x_W22_ftsi_isolate_B_F2_438-6-CACTAGAC.bam
+/mnt/ghowl/upb-seq/align/bams//438-7-B73_x_W22_ftsi_isolate_B_F2_438-7-GCTTCCTA.bam
+/mnt/ghowl/upb-seq/align/bams//438-8-B73_x_W22_ftsi_isolate_B_F2_438-8-GCTTAACG.bam
+/mnt/ghowl/upb-seq/align/bams//438-9-B73_x_W22_ftsi_isolate_B_F2_438-9-GTACCAAC.bam
+/mnt/ghowl/upb-seq/align/bams//439-10-B73_x_W22_ftsi_isolate_B_F2_439-10-TAGGCCAT.bam
+/mnt/ghowl/upb-seq/align/bams//439-11-B73_x_W22_ftsi_isolate_B_F2_439-11-CTGTACAG.bam
+/mnt/ghowl/upb-seq/align/bams//439-12-B73_x_W22_ftsi_isolate_B_F2_439-12-TCGAGTTG.bam
+/mnt/ghowl/upb-seq/align/bams//439-13-B73_x_W22_ftsi_isolate_B_F2_439-13-AAGGTTCC.bam
+/mnt/ghowl/upb-seq/align/bams//439-14-B73_x_W22_ftsi_isolate_B_F2_439-14-GCCGTATA.bam
+/mnt/ghowl/upb-seq/align/bams//439-15-B73_x_W22_ftsi_isolate_B_F2_439-15-ACCTGTTC.bam
+/mnt/ghowl/upb-seq/align/bams//439-1-B73_x_W22_ftsi_isolate_B_F2_439-1-TGACCACA.bam
+/mnt/ghowl/upb-seq/align/bams//439-2-B73_x_W22_ftsi_isolate_B_F2_439-2-ATCCGGTA.bam
+/mnt/ghowl/upb-seq/align/bams//439-3-B73_x_W22_ftsi_isolate_B_F2_439-3-GACATCAC.bam
+/mnt/ghowl/upb-seq/align/bams//439-4-B73_x_W22_ftsi_isolate_B_F2_439-4-TCGATGGT.bam
+/mnt/ghowl/upb-seq/align/bams//439-5-B73_x_W22_ftsi_isolate_B_F2_439-5-CTGTCAGA.bam
+/mnt/ghowl/upb-seq/align/bams//439-6-B73_x_W22_ftsi_isolate_B_F2_439-6-TGGTACGT.bam
+/mnt/ghowl/upb-seq/align/bams//439-7-B73_x_W22_ftsi_isolate_B_F2_439-7-GATGCATC.bam
+/mnt/ghowl/upb-seq/align/bams//439-8-B73_x_W22_ftsi_isolate_B_F2_439-8-CTTCCAAC.bam
+/mnt/ghowl/upb-seq/align/bams//439-9-B73_x_W22_ftsi_isolate_B_F2_439-9-ACACGTGT.bam
+/mnt/ghowl/upb-seq/align/bams//440-10-B73_x_W22_ftsi_isolate_B_F2_440-10-ACCAACGT.bam
+/mnt/ghowl/upb-seq/align/bams//440-11-B73_x_W22_ftsi_isolate_B_F2_440-11-GATCAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//440-12-B73_x_W22_ftsi_isolate_B_F2_440-12-CGTAGCAT.bam
+/mnt/ghowl/upb-seq/align/bams//440-13-B73_x_W22_ftsi_isolate_B_F2_440-13-GTGTTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//440-14-B73_x_W22_ftsi_isolate_B_F2_440-14-AGTGTCTG.bam
+/mnt/ghowl/upb-seq/align/bams//440-15-B73_x_W22_ftsi_isolate_B_F2_440-15-TGGTCATG.bam
+/mnt/ghowl/upb-seq/align/bams//440-16-B73_x_W22_ftsi_isolate_B_F2_440-16-ACTGTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//440-17-B73_x_W22_ftsi_isolate_B_F2_440-17-CTTGTCCA.bam
+/mnt/ghowl/upb-seq/align/bams//440-18-B73_x_W22_ftsi_isolate_B_F2_440-18-CGATCGAT.bam
+/mnt/ghowl/upb-seq/align/bams//440-1-B73_x_W22_ftsi_isolate_B_F2_440-1-ACAGTCAC.bam
+/mnt/ghowl/upb-seq/align/bams//440-2-B73_x_W22_ftsi_isolate_B_F2_440-2-GAGTTCTG.bam
+/mnt/ghowl/upb-seq/align/bams//440-3-B73_x_W22_ftsi_isolate_B_F2_440-3-GCTACGAT.bam
+/mnt/ghowl/upb-seq/align/bams//440-4-B73_x_W22_ftsi_isolate_B_F2_440-4-CTAGAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//440-5-B73_x_W22_ftsi_isolate_B_F2_440-5-ACTGACTG.bam
+/mnt/ghowl/upb-seq/align/bams//440-6-B73_x_W22_ftsi_isolate_B_F2_440-6-GGAAGCAT.bam
+/mnt/ghowl/upb-seq/align/bams//440-7-B73_x_W22_ftsi_isolate_B_F2_440-7-CCATATGG.bam
+/mnt/ghowl/upb-seq/align/bams//440-8-B73_x_W22_ftsi_isolate_B_F2_440-8-CAGTTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//440-9-B73_x_W22_ftsi_isolate_B_F2_440-9-ACACGTCA.bam
+/mnt/ghowl/upb-seq/align/bams//441-10-B73_x_W22_ftsi_isolate_B_F2_441-10-ACCAAGGA.bam
+/mnt/ghowl/upb-seq/align/bams//441-11-B73_x_W22_ftsi_isolate_B_F2_441-11-GCCGTTAA.bam
+/mnt/ghowl/upb-seq/align/bams//441-12-B73_x_W22_ftsi_isolate_B_F2_441-12-TGACTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//441-13-B73_x_W22_ftsi_isolate_B_F2_441-13-TGGTGTAC.bam
+/mnt/ghowl/upb-seq/align/bams//441-14-B73_x_W22_ftsi_isolate_B_F2_441-14-GTACAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//441-15-B73_x_W22_ftsi_isolate_B_F2_441-15-GGTTCCAA.bam
+/mnt/ghowl/upb-seq/align/bams//441-1-B73_x_W22_ftsi_isolate_B_F2_441-1-AACGTTGC.bam
+/mnt/ghowl/upb-seq/align/bams//441-2-B73_x_W22_ftsi_isolate_B_F2_441-2-TGCACAAC.bam
+/mnt/ghowl/upb-seq/align/bams//441-3-B73_x_W22_ftsi_isolate_B_F2_441-3-CTCTACAC.bam
+/mnt/ghowl/upb-seq/align/bams//441-4-B73_x_W22_ftsi_isolate_B_F2_441-4-GCTATTCC.bam
+/mnt/ghowl/upb-seq/align/bams//441-5-B73_x_W22_ftsi_isolate_B_F2_441-5-CCTAATCC.bam
+/mnt/ghowl/upb-seq/align/bams//441-6-B73_x_W22_ftsi_isolate_B_F2_441-6-CATGCTTC.bam
+/mnt/ghowl/upb-seq/align/bams//441-7-B73_x_W22_ftsi_isolate_B_F2_441-7-TGACGTGT.bam
+/mnt/ghowl/upb-seq/align/bams//441-8-B73_x_W22_ftsi_isolate_B_F2_441-8-ACCACATG.bam
+/mnt/ghowl/upb-seq/align/bams//441-9-B73_x_W22_ftsi_isolate_B_F2_441-9-GACTTCAG.bam
+/mnt/ghowl/upb-seq/align/bams//442-10-B73_x_W22_ftsi_isolate_B_F2_442-10-GGATTAGG.bam
+/mnt/ghowl/upb-seq/align/bams//442-11-B73_x_W22_ftsi_isolate_B_F2_442-11-GAACCATC.bam
+/mnt/ghowl/upb-seq/align/bams//442-12-B73_x_W22_ftsi_isolate_B_F2_442-12-ATGCATGC.bam
+/mnt/ghowl/upb-seq/align/bams//442-13-B73_x_W22_ftsi_isolate_B_F2_442-13-GATCCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//442-14-B73_x_W22_ftsi_isolate_B_F2_442-14-CAACGTAC.bam
+/mnt/ghowl/upb-seq/align/bams//442-15-B73_x_W22_ftsi_isolate_B_F2_442-15-GAAGCTTC.bam
+/mnt/ghowl/upb-seq/align/bams//442-16-B73_x_W22_ftsi_isolate_B_F2_442-16-TAGCTACG.bam
+/mnt/ghowl/upb-seq/align/bams//442-17-B73_x_W22_ftsi_isolate_B_F2_442-17-GAACTGCT.bam
+/mnt/ghowl/upb-seq/align/bams//442-18-B73_x_W22_ftsi_isolate_B_F2_442-18-TGGTCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//442-1-B73_x_W22_ftsi_isolate_B_F2_442-1-GAGACACA.bam
+/mnt/ghowl/upb-seq/align/bams//442-2-B73_x_W22_ftsi_isolate_B_F2_442-2-GAGTTCAC.bam
+/mnt/ghowl/upb-seq/align/bams//442-3-B73_x_W22_ftsi_isolate_B_F2_442-3-GCGCTATA.bam
+/mnt/ghowl/upb-seq/align/bams//442-4-B73_x_W22_ftsi_isolate_B_F2_442-4-GTGAACAG.bam
+/mnt/ghowl/upb-seq/align/bams//442-5-B73_x_W22_ftsi_isolate_B_F2_442-5-TGCACTAG.bam
+/mnt/ghowl/upb-seq/align/bams//442-6-B73_x_W22_ftsi_isolate_B_F2_442-6-AACCGGTT.bam
+/mnt/ghowl/upb-seq/align/bams//442-7-B73_x_W22_ftsi_isolate_B_F2_442-7-ATCCTAGG.bam
+/mnt/ghowl/upb-seq/align/bams//442-8-B73_x_W22_ftsi_isolate_B_F2_442-8-CAACCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//442-9-B73_x_W22_ftsi_isolate_B_F2_442-9-AGTGGTCT.bam
+/mnt/ghowl/upb-seq/align/bams//443-10-B73_x_W22_ftsi_isolate_B_F2_443-10-CTAGCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//443-11-B73_x_W22_ftsi_isolate_B_F2_443-11-CTCTCAGT.bam
+/mnt/ghowl/upb-seq/align/bams//443-12-B73_x_W22_ftsi_isolate_B_F2_443-12-GTACTGCA.bam
+/mnt/ghowl/upb-seq/align/bams//443-13-B73_x_W22_ftsi_isolate_B_F2_443-13-CTTCCATG.bam
+/mnt/ghowl/upb-seq/align/bams//443-14-B73_x_W22_ftsi_isolate_B_F2_443-14-TACGAACC.bam
+/mnt/ghowl/upb-seq/align/bams//443-15-B73_x_W22_ftsi_isolate_B_F2_443-15-TACCATGG.bam
+/mnt/ghowl/upb-seq/align/bams//443-1-B73_x_W22_ftsi_isolate_B_F2_443-1-CTACCATC.bam
+/mnt/ghowl/upb-seq/align/bams//443-2-B73_x_W22_ftsi_isolate_B_F2_443-2-TCCAAGGT.bam
+/mnt/ghowl/upb-seq/align/bams//443-3-B73_x_W22_ftsi_isolate_B_F2_443-3-CTCATGAG.bam
+/mnt/ghowl/upb-seq/align/bams//443-4-B73_x_W22_ftsi_isolate_B_F2_443-4-GAGACAGT.bam
+/mnt/ghowl/upb-seq/align/bams//443-5-B73_x_W22_ftsi_isolate_B_F2_443-5-GTGTCACA.bam
+/mnt/ghowl/upb-seq/align/bams//443-6-B73_x_W22_ftsi_isolate_B_F2_443-6-GACATCTG.bam
+/mnt/ghowl/upb-seq/align/bams//443-7-B73_x_W22_ftsi_isolate_B_F2_443-7-CACATGTG.bam
+/mnt/ghowl/upb-seq/align/bams//443-8-B73_x_W22_ftsi_isolate_B_F2_443-8-CGTACGTA.bam
+/mnt/ghowl/upb-seq/align/bams//443-9-B73_x_W22_ftsi_isolate_B_F2_443-9-AGGAACGT.bam
+/mnt/ghowl/upb-seq/align/bams//444-10-B73_x_W22_ftsi_isolate_B_F2_444-10-GTACCAAC.bam
+/mnt/ghowl/upb-seq/align/bams//444-11-B73_x_W22_ftsi_isolate_B_F2_444-11-GAAGTCCT.bam
+/mnt/ghowl/upb-seq/align/bams//444-12-B73_x_W22_ftsi_isolate_B_F2_444-12-CCAATACG.bam
+/mnt/ghowl/upb-seq/align/bams//444-13-B73_x_W22_ftsi_isolate_B_F2_444-13-AGCTCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//444-14-B73_x_W22_ftsi_isolate_B_F2_444-14-CGTAGCTA.bam
+/mnt/ghowl/upb-seq/align/bams//444-15-B73_x_W22_ftsi_isolate_B_F2_444-15-CTCTCACA.bam
+/mnt/ghowl/upb-seq/align/bams//444-16-B73_x_W22_ftsi_isolate_B_F2_444-16-TGACCACA.bam
+/mnt/ghowl/upb-seq/align/bams//444-1-B73_x_W22_ftsi_isolate_B_F2_444-1-AGCTAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//444-2-B73_x_W22_ftsi_isolate_B_F2_444-2-AGGTAGGT.bam
+/mnt/ghowl/upb-seq/align/bams//444-3-B73_x_W22_ftsi_isolate_B_F2_444-3-CAGTCAGT.bam
+/mnt/ghowl/upb-seq/align/bams//444-4-B73_x_W22_ftsi_isolate_B_F2_444-4-CAAGCTTG.bam
+/mnt/ghowl/upb-seq/align/bams//444-5-B73_x_W22_ftsi_isolate_B_F2_444-5-AACCTTGG.bam
+/mnt/ghowl/upb-seq/align/bams//444-6-B73_x_W22_ftsi_isolate_B_F2_444-6-ATCGTAGC.bam
+/mnt/ghowl/upb-seq/align/bams//444-7-B73_x_W22_ftsi_isolate_B_F2_444-7-CACTAGAC.bam
+/mnt/ghowl/upb-seq/align/bams//444-8-B73_x_W22_ftsi_isolate_B_F2_444-8-GCTTCCTA.bam
+/mnt/ghowl/upb-seq/align/bams//444-9-B73_x_W22_ftsi_isolate_B_F2_444-9-GCTTAACG.bam
+/mnt/ghowl/upb-seq/align/bams//445-10-B73_x_W22_ftsi_isolate_B_F2_445-10-CTGTACAG.bam
+/mnt/ghowl/upb-seq/align/bams//445-11-B73_x_W22_ftsi_isolate_B_F2_445-11-TCGAGTTG.bam
+/mnt/ghowl/upb-seq/align/bams//445-12-B73_x_W22_ftsi_isolate_B_F2_445-12-AAGGTTCC.bam
+/mnt/ghowl/upb-seq/align/bams//445-13-B73_x_W22_ftsi_isolate_B_F2_445-13-GCCGTATA.bam
+/mnt/ghowl/upb-seq/align/bams//445-14-B73_x_W22_ftsi_isolate_B_F2_445-14-ACCTGTTC.bam
+/mnt/ghowl/upb-seq/align/bams//445-15-B73_x_W22_ftsi_isolate_B_F2_445-15-ACAGTCAC.bam
+/mnt/ghowl/upb-seq/align/bams//445-16-B73_x_W22_ftsi_isolate_B_F2_445-16-GAGTTCTG.bam
+/mnt/ghowl/upb-seq/align/bams//445-17-B73_x_W22_ftsi_isolate_B_F2_445-17-GCTACGAT.bam
+/mnt/ghowl/upb-seq/align/bams//445-18-B73_x_W22_ftsi_isolate_B_F2_445-18-CTAGAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//445-1-B73_x_W22_ftsi_isolate_B_F2_445-1-ATCCGGTA.bam
+/mnt/ghowl/upb-seq/align/bams//445-2-B73_x_W22_ftsi_isolate_B_F2_445-2-GACATCAC.bam
+/mnt/ghowl/upb-seq/align/bams//445-3-B73_x_W22_ftsi_isolate_B_F2_445-3-TCGATGGT.bam
+/mnt/ghowl/upb-seq/align/bams//445-4-B73_x_W22_ftsi_isolate_B_F2_445-4-CTGTCAGA.bam
+/mnt/ghowl/upb-seq/align/bams//445-5-B73_x_W22_ftsi_isolate_B_F2_445-5-TGGTACGT.bam
+/mnt/ghowl/upb-seq/align/bams//445-6-B73_x_W22_ftsi_isolate_B_F2_445-6-GATGCATC.bam
+/mnt/ghowl/upb-seq/align/bams//445-7-B73_x_W22_ftsi_isolate_B_F2_445-7-CTTCCAAC.bam
+/mnt/ghowl/upb-seq/align/bams//445-8-B73_x_W22_ftsi_isolate_B_F2_445-8-ACACGTGT.bam
+/mnt/ghowl/upb-seq/align/bams//445-9-B73_x_W22_ftsi_isolate_B_F2_445-9-TAGGCCAT.bam
+/mnt/ghowl/upb-seq/align/bams//446-10-B73_x_W22_ftsi_isolate_B_F2_446-10-AGTGTCTG.bam
+/mnt/ghowl/upb-seq/align/bams//446-11-B73_x_W22_ftsi_isolate_B_F2_446-11-TGGTCATG.bam
+/mnt/ghowl/upb-seq/align/bams//446-12-B73_x_W22_ftsi_isolate_B_F2_446-12-ACTGTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//446-1-B73_x_W22_ftsi_isolate_B_F2_446-1-ACTGACTG.bam
+/mnt/ghowl/upb-seq/align/bams//446-2-B73_x_W22_ftsi_isolate_B_F2_446-2-GGAAGCAT.bam
+/mnt/ghowl/upb-seq/align/bams//446-3-B73_x_W22_ftsi_isolate_B_F2_446-3-CCATATGG.bam
+/mnt/ghowl/upb-seq/align/bams//446-4-B73_x_W22_ftsi_isolate_B_F2_446-4-CAGTTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//446-5-B73_x_W22_ftsi_isolate_B_F2_446-5-ACACGTCA.bam
+/mnt/ghowl/upb-seq/align/bams//446-6-B73_x_W22_ftsi_isolate_B_F2_446-6-ACCAACGT.bam
+/mnt/ghowl/upb-seq/align/bams//446-7-B73_x_W22_ftsi_isolate_B_F2_446-7-GATCAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//446-8-B73_x_W22_ftsi_isolate_B_F2_446-8-CGTAGCAT.bam
+/mnt/ghowl/upb-seq/align/bams//446-9-B73_x_W22_ftsi_isolate_B_F2_446-9-GTGTTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//447-10-B73_x_W22_ftsi_isolate_B_F2_447-10-ACCACATG.bam
+/mnt/ghowl/upb-seq/align/bams//447-11-B73_x_W22_ftsi_isolate_B_F2_447-11-GACTTCAG.bam
+/mnt/ghowl/upb-seq/align/bams//447-12-B73_x_W22_ftsi_isolate_B_F2_447-12-ACCAAGGA.bam
+/mnt/ghowl/upb-seq/align/bams//447-13-B73_x_W22_ftsi_isolate_B_F2_447-13-GCCGTTAA.bam
+/mnt/ghowl/upb-seq/align/bams//447-14-B73_x_W22_ftsi_isolate_B_F2_447-14-TGACTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//447-15-B73_x_W22_ftsi_isolate_B_F2_447-15-TGGTGTAC.bam
+/mnt/ghowl/upb-seq/align/bams//447-1-B73_x_W22_ftsi_isolate_B_F2_447-1-CTTGTCCA.bam
+/mnt/ghowl/upb-seq/align/bams//447-2-B73_x_W22_ftsi_isolate_B_F2_447-2-CGATCGAT.bam
+/mnt/ghowl/upb-seq/align/bams//447-3-B73_x_W22_ftsi_isolate_B_F2_447-3-AACGTTGC.bam
+/mnt/ghowl/upb-seq/align/bams//447-4-B73_x_W22_ftsi_isolate_B_F2_447-4-TGCACAAC.bam
+/mnt/ghowl/upb-seq/align/bams//447-5-B73_x_W22_ftsi_isolate_B_F2_447-5-CTCTACAC.bam
+/mnt/ghowl/upb-seq/align/bams//447-6-B73_x_W22_ftsi_isolate_B_F2_447-6-GCTATTCC.bam
+/mnt/ghowl/upb-seq/align/bams//447-7-B73_x_W22_ftsi_isolate_B_F2_447-7-CCTAATCC.bam
+/mnt/ghowl/upb-seq/align/bams//447-8-B73_x_W22_ftsi_isolate_B_F2_447-8-CATGCTTC.bam
+/mnt/ghowl/upb-seq/align/bams//447-9-B73_x_W22_ftsi_isolate_B_F2_447-9-TGACGTGT.bam
+/mnt/ghowl/upb-seq/align/bams//448-10-B73_x_W22_ftsi_isolate_B_F2_448-10-CAACCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//448-11-B73_x_W22_ftsi_isolate_B_F2_448-11-AGTGGTCT.bam
+/mnt/ghowl/upb-seq/align/bams//448-12-B73_x_W22_ftsi_isolate_B_F2_448-12-GGATTAGG.bam
+/mnt/ghowl/upb-seq/align/bams//448-13-B73_x_W22_ftsi_isolate_B_F2_448-13-GAACCATC.bam
+/mnt/ghowl/upb-seq/align/bams//448-14-B73_x_W22_ftsi_isolate_B_F2_448-14-ATGCATGC.bam
+/mnt/ghowl/upb-seq/align/bams//448-15-B73_x_W22_ftsi_isolate_B_F2_448-15-GATCCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//448-16-B73_x_W22_ftsi_isolate_B_F2_448-16-CAACGTAC.bam
+/mnt/ghowl/upb-seq/align/bams//448-17-B73_x_W22_ftsi_isolate_B_F2_448-17-GAAGCTTC.bam
+/mnt/ghowl/upb-seq/align/bams//448-1-B73_x_W22_ftsi_isolate_B_F2_448-1-GTACAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//448-2-B73_x_W22_ftsi_isolate_B_F2_448-2-GGTTCCAA.bam
+/mnt/ghowl/upb-seq/align/bams//448-3-B73_x_W22_ftsi_isolate_B_F2_448-3-GAGACACA.bam
+/mnt/ghowl/upb-seq/align/bams//448-4-B73_x_W22_ftsi_isolate_B_F2_448-4-GAGTTCAC.bam
+/mnt/ghowl/upb-seq/align/bams//448-5-B73_x_W22_ftsi_isolate_B_F2_448-5-GCGCTATA.bam
+/mnt/ghowl/upb-seq/align/bams//448-6-B73_x_W22_ftsi_isolate_B_F2_448-6-GTGAACAG.bam
+/mnt/ghowl/upb-seq/align/bams//448-7-B73_x_W22_ftsi_isolate_B_F2_448-7-TGCACTAG.bam
+/mnt/ghowl/upb-seq/align/bams//448-8-B73_x_W22_ftsi_isolate_B_F2_448-8-AACCGGTT.bam
+/mnt/ghowl/upb-seq/align/bams//448-9-B73_x_W22_ftsi_isolate_B_F2_448-9-ATCCTAGG.bam
+/mnt/ghowl/upb-seq/align/bams//449-10-B73_x_W22_ftsi_isolate_B_F2_449-10-CACATGTG.bam
+/mnt/ghowl/upb-seq/align/bams//449-11-B73_x_W22_ftsi_isolate_B_F2_449-11-CGTACGTA.bam
+/mnt/ghowl/upb-seq/align/bams//449-12-B73_x_W22_ftsi_isolate_B_F2_449-12-AGGAACGT.bam
+/mnt/ghowl/upb-seq/align/bams//449-13-B73_x_W22_ftsi_isolate_B_F2_449-13-CTAGCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//449-14-B73_x_W22_ftsi_isolate_B_F2_449-14-CTCTCAGT.bam
+/mnt/ghowl/upb-seq/align/bams//449-15-B73_x_W22_ftsi_isolate_B_F2_449-15-GTACTGCA.bam
+/mnt/ghowl/upb-seq/align/bams//449-16-B73_x_W22_ftsi_isolate_B_F2_449-16-CTTCCATG.bam
+/mnt/ghowl/upb-seq/align/bams//449-17-B73_x_W22_ftsi_isolate_B_F2_449-17-TACGAACC.bam
+/mnt/ghowl/upb-seq/align/bams//449-1-B73_x_W22_ftsi_isolate_B_F2_449-1-TAGCTACG.bam
+/mnt/ghowl/upb-seq/align/bams//449-2-B73_x_W22_ftsi_isolate_B_F2_449-2-GAACTGCT.bam
+/mnt/ghowl/upb-seq/align/bams//449-3-B73_x_W22_ftsi_isolate_B_F2_449-3-TGGTCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//449-4-B73_x_W22_ftsi_isolate_B_F2_449-4-CTACCATC.bam
+/mnt/ghowl/upb-seq/align/bams//449-5-B73_x_W22_ftsi_isolate_B_F2_449-5-TCCAAGGT.bam
+/mnt/ghowl/upb-seq/align/bams//449-6-B73_x_W22_ftsi_isolate_B_F2_449-6-CTCATGAG.bam
+/mnt/ghowl/upb-seq/align/bams//449-7-B73_x_W22_ftsi_isolate_B_F2_449-7-GAGACAGT.bam
+/mnt/ghowl/upb-seq/align/bams//449-8-B73_x_W22_ftsi_isolate_B_F2_449-8-GTGTCACA.bam
+/mnt/ghowl/upb-seq/align/bams//449-9-B73_x_W22_ftsi_isolate_B_F2_449-9-GACATCTG.bam
+/mnt/ghowl/upb-seq/align/bams//450-10-B73_x_W22_ftsi_isolate_B_F2_450-10-GCTTAACG.bam
+/mnt/ghowl/upb-seq/align/bams//450-11-B73_x_W22_ftsi_isolate_B_F2_450-11-GTACCAAC.bam
+/mnt/ghowl/upb-seq/align/bams//450-12-B73_x_W22_ftsi_isolate_B_F2_450-12-GAAGTCCT.bam
+/mnt/ghowl/upb-seq/align/bams//450-13-B73_x_W22_ftsi_isolate_B_F2_450-13-CCAATACG.bam
+/mnt/ghowl/upb-seq/align/bams//450-14-B73_x_W22_ftsi_isolate_B_F2_450-14-AGCTCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//450-15-B73_x_W22_ftsi_isolate_B_F2_450-15-CGTAGCTA.bam
+/mnt/ghowl/upb-seq/align/bams//450-16-B73_x_W22_ftsi_isolate_B_F2_450-16-CTCTCACA.bam
+/mnt/ghowl/upb-seq/align/bams//450-1-B73_x_W22_ftsi_isolate_B_F2_450-1-TACCATGG.bam
+/mnt/ghowl/upb-seq/align/bams//450-2-B73_x_W22_ftsi_isolate_B_F2_450-2-AGCTAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//450-3-B73_x_W22_ftsi_isolate_B_F2_450-3-AGGTAGGT.bam
+/mnt/ghowl/upb-seq/align/bams//450-4-B73_x_W22_ftsi_isolate_B_F2_450-4-CAGTCAGT.bam
+/mnt/ghowl/upb-seq/align/bams//450-5-B73_x_W22_ftsi_isolate_B_F2_450-5-CAAGCTTG.bam
+/mnt/ghowl/upb-seq/align/bams//450-6-B73_x_W22_ftsi_isolate_B_F2_450-6-AACCTTGG.bam
+/mnt/ghowl/upb-seq/align/bams//450-7-B73_x_W22_ftsi_isolate_B_F2_450-7-ATCGTAGC.bam
+/mnt/ghowl/upb-seq/align/bams//450-8-B73_x_W22_ftsi_isolate_B_F2_450-8-CACTAGAC.bam
+/mnt/ghowl/upb-seq/align/bams//450-9-B73_x_W22_ftsi_isolate_B_F2_450-9-GCTTCCTA.bam
+/mnt/ghowl/upb-seq/align/bams//451-10-B73_x_W22_ftsi_isolate_B_F2_451-10-TAGGCCAT.bam
+/mnt/ghowl/upb-seq/align/bams//451-11-B73_x_W22_ftsi_isolate_B_F2_451-11-CTGTACAG.bam
+/mnt/ghowl/upb-seq/align/bams//451-12-B73_x_W22_ftsi_isolate_B_F2_451-12-TCGAGTTG.bam
+/mnt/ghowl/upb-seq/align/bams//451-13-B73_x_W22_ftsi_isolate_B_F2_451-13-AAGGTTCC.bam
+/mnt/ghowl/upb-seq/align/bams//451-14-B73_x_W22_ftsi_isolate_B_F2_451-14-GCCGTATA.bam
+/mnt/ghowl/upb-seq/align/bams//451-1-B73_x_W22_ftsi_isolate_B_F2_451-1-TGACCACA.bam
+/mnt/ghowl/upb-seq/align/bams//451-2-B73_x_W22_ftsi_isolate_B_F2_451-2-ATCCGGTA.bam
+/mnt/ghowl/upb-seq/align/bams//451-3-B73_x_W22_ftsi_isolate_B_F2_451-3-GACATCAC.bam
+/mnt/ghowl/upb-seq/align/bams//451-4-B73_x_W22_ftsi_isolate_B_F2_451-4-TCGATGGT.bam
+/mnt/ghowl/upb-seq/align/bams//451-5-B73_x_W22_ftsi_isolate_B_F2_451-5-CTGTCAGA.bam
+/mnt/ghowl/upb-seq/align/bams//451-6-B73_x_W22_ftsi_isolate_B_F2_451-6-TGGTACGT.bam
+/mnt/ghowl/upb-seq/align/bams//451-7-B73_x_W22_ftsi_isolate_B_F2_451-7-GATGCATC.bam
+/mnt/ghowl/upb-seq/align/bams//451-8-B73_x_W22_ftsi_isolate_B_F2_451-8-CTTCCAAC.bam
+/mnt/ghowl/upb-seq/align/bams//451-9-B73_x_W22_ftsi_isolate_B_F2_451-9-ACACGTGT.bam
+/mnt/ghowl/upb-seq/align/bams//452-10-B73_x_W22_ftsi_isolate_B_F2_452-10-ACACGTCA.bam
+/mnt/ghowl/upb-seq/align/bams//452-11-B73_x_W22_ftsi_isolate_B_F2_452-11-ACCAACGT.bam
+/mnt/ghowl/upb-seq/align/bams//452-12-B73_x_W22_ftsi_isolate_B_F2_452-12-GATCAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//452-13-B73_x_W22_ftsi_isolate_B_F2_452-13-CGTAGCAT.bam
+/mnt/ghowl/upb-seq/align/bams//452-1-B73_x_W22_ftsi_isolate_B_F2_452-1-ACCTGTTC.bam
+/mnt/ghowl/upb-seq/align/bams//452-2-B73_x_W22_ftsi_isolate_B_F2_452-2-ACAGTCAC.bam
+/mnt/ghowl/upb-seq/align/bams//452-3-B73_x_W22_ftsi_isolate_B_F2_452-3-GAGTTCTG.bam
+/mnt/ghowl/upb-seq/align/bams//452-4-B73_x_W22_ftsi_isolate_B_F2_452-4-GCTACGAT.bam
+/mnt/ghowl/upb-seq/align/bams//452-5-B73_x_W22_ftsi_isolate_B_F2_452-5-CTAGAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//452-6-B73_x_W22_ftsi_isolate_B_F2_452-6-ACTGACTG.bam
+/mnt/ghowl/upb-seq/align/bams//452-7-B73_x_W22_ftsi_isolate_B_F2_452-7-GGAAGCAT.bam
+/mnt/ghowl/upb-seq/align/bams//452-8-B73_x_W22_ftsi_isolate_B_F2_452-8-CCATATGG.bam
+/mnt/ghowl/upb-seq/align/bams//452-9-B73_x_W22_ftsi_isolate_B_F2_452-9-CAGTTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//453-10-B73_x_W22_ftsi_isolate_B_F2_453-10-GCTATTCC.bam
+/mnt/ghowl/upb-seq/align/bams//453-11-B73_x_W22_ftsi_isolate_B_F2_453-11-CCTAATCC.bam
+/mnt/ghowl/upb-seq/align/bams//453-12-B73_x_W22_ftsi_isolate_B_F2_453-12-CATGCTTC.bam
+/mnt/ghowl/upb-seq/align/bams//453-13-B73_x_W22_ftsi_isolate_B_F2_453-13-TGACGTGT.bam
+/mnt/ghowl/upb-seq/align/bams//453-14-B73_x_W22_ftsi_isolate_B_F2_453-14-ACCACATG.bam
+/mnt/ghowl/upb-seq/align/bams//453-15-B73_x_W22_ftsi_isolate_B_F2_453-15-GACTTCAG.bam
+/mnt/ghowl/upb-seq/align/bams//453-1-B73_x_W22_ftsi_isolate_B_F2_453-1-GTGTTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//453-2-B73_x_W22_ftsi_isolate_B_F2_453-2-AGTGTCTG.bam
+/mnt/ghowl/upb-seq/align/bams//453-3-B73_x_W22_ftsi_isolate_B_F2_453-3-TGGTCATG.bam
+/mnt/ghowl/upb-seq/align/bams//453-4-B73_x_W22_ftsi_isolate_B_F2_453-4-ACTGTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//453-5-B73_x_W22_ftsi_isolate_B_F2_453-5-CTTGTCCA.bam
+/mnt/ghowl/upb-seq/align/bams//453-6-B73_x_W22_ftsi_isolate_B_F2_453-6-CGATCGAT.bam
+/mnt/ghowl/upb-seq/align/bams//453-7-B73_x_W22_ftsi_isolate_B_F2_453-7-AACGTTGC.bam
+/mnt/ghowl/upb-seq/align/bams//453-8-B73_x_W22_ftsi_isolate_B_F2_453-8-TGCACAAC.bam
+/mnt/ghowl/upb-seq/align/bams//453-9-B73_x_W22_ftsi_isolate_B_F2_453-9-CTCTACAC.bam
+/mnt/ghowl/upb-seq/align/bams//454-10-B73_x_W22_ftsi_isolate_B_F2_454-10-GTGAACAG.bam
+/mnt/ghowl/upb-seq/align/bams//454-11-B73_x_W22_ftsi_isolate_B_F2_454-11-TGCACTAG.bam
+/mnt/ghowl/upb-seq/align/bams//454-12-B73_x_W22_ftsi_isolate_B_F2_454-12-AACCGGTT.bam
+/mnt/ghowl/upb-seq/align/bams//454-13-B73_x_W22_ftsi_isolate_B_F2_454-13-ATCCTAGG.bam
+/mnt/ghowl/upb-seq/align/bams//454-14-B73_x_W22_ftsi_isolate_B_F2_454-14-CAACCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//454-15-B73_x_W22_ftsi_isolate_B_F2_454-15-AGTGGTCT.bam
+/mnt/ghowl/upb-seq/align/bams//454-16-B73_x_W22_ftsi_isolate_B_F2_454-16-GGATTAGG.bam
+/mnt/ghowl/upb-seq/align/bams//454-17-B73_x_W22_ftsi_isolate_B_F2_454-17-GAACCATC.bam
+/mnt/ghowl/upb-seq/align/bams//454-1-B73_x_W22_ftsi_isolate_B_F2_454-1-ACCAAGGA.bam
+/mnt/ghowl/upb-seq/align/bams//454-2-B73_x_W22_ftsi_isolate_B_F2_454-2-GCCGTTAA.bam
+/mnt/ghowl/upb-seq/align/bams//454-3-B73_x_W22_ftsi_isolate_B_F2_454-3-TGACTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//454-4-B73_x_W22_ftsi_isolate_B_F2_454-4-TGGTGTAC.bam
+/mnt/ghowl/upb-seq/align/bams//454-5-B73_x_W22_ftsi_isolate_B_F2_454-5-GTACAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//454-6-B73_x_W22_ftsi_isolate_B_F2_454-6-GGTTCCAA.bam
+/mnt/ghowl/upb-seq/align/bams//454-7-B73_x_W22_ftsi_isolate_B_F2_454-7-GAGACACA.bam
+/mnt/ghowl/upb-seq/align/bams//454-8-B73_x_W22_ftsi_isolate_B_F2_454-8-GAGTTCAC.bam
+/mnt/ghowl/upb-seq/align/bams//454-9-B73_x_W22_ftsi_isolate_B_F2_454-9-GCGCTATA.bam
+/mnt/ghowl/upb-seq/align/bams//455-10-B73_x_W22_ftsi_isolate_B_F2_455-10-CTCATGAG.bam
+/mnt/ghowl/upb-seq/align/bams//455-11-B73_x_W22_ftsi_isolate_B_F2_455-11-GAGACAGT.bam
+/mnt/ghowl/upb-seq/align/bams//455-12-B73_x_W22_ftsi_isolate_B_F2_455-12-GTGTCACA.bam
+/mnt/ghowl/upb-seq/align/bams//455-13-B73_x_W22_ftsi_isolate_B_F2_455-13-GACATCTG.bam
+/mnt/ghowl/upb-seq/align/bams//455-14-B73_x_W22_ftsi_isolate_B_F2_455-14-CACATGTG.bam
+/mnt/ghowl/upb-seq/align/bams//455-15-B73_x_W22_ftsi_isolate_B_F2_455-15-CGTACGTA.bam
+/mnt/ghowl/upb-seq/align/bams//455-16-B73_x_W22_ftsi_isolate_B_F2_455-16-AGGAACGT.bam
+/mnt/ghowl/upb-seq/align/bams//455-1-B73_x_W22_ftsi_isolate_B_F2_455-1-ATGCATGC.bam
+/mnt/ghowl/upb-seq/align/bams//455-2-B73_x_W22_ftsi_isolate_B_F2_455-2-GATCCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//455-3-B73_x_W22_ftsi_isolate_B_F2_455-3-CAACGTAC.bam
+/mnt/ghowl/upb-seq/align/bams//455-4-B73_x_W22_ftsi_isolate_B_F2_455-4-GAAGCTTC.bam
+/mnt/ghowl/upb-seq/align/bams//455-5-B73_x_W22_ftsi_isolate_B_F2_455-5-TAGCTACG.bam
+/mnt/ghowl/upb-seq/align/bams//455-6-B73_x_W22_ftsi_isolate_B_F2_455-6-GAACTGCT.bam
+/mnt/ghowl/upb-seq/align/bams//455-7-B73_x_W22_ftsi_isolate_B_F2_455-7-TGGTCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//455-8-B73_x_W22_ftsi_isolate_B_F2_455-8-CTACCATC.bam
+/mnt/ghowl/upb-seq/align/bams//455-9-B73_x_W22_ftsi_isolate_B_F2_455-9-TCCAAGGT.bam
+/mnt/ghowl/upb-seq/align/bams//456-10-B73_x_W22_ftsi_isolate_B_F2_456-10-CAAGCTTG.bam
+/mnt/ghowl/upb-seq/align/bams//456-11-B73_x_W22_ftsi_isolate_B_F2_456-11-AACCTTGG.bam
+/mnt/ghowl/upb-seq/align/bams//456-12-B73_x_W22_ftsi_isolate_B_F2_456-12-ATCGTAGC.bam
+/mnt/ghowl/upb-seq/align/bams//456-13-B73_x_W22_ftsi_isolate_B_F2_456-13-CACTAGAC.bam
+/mnt/ghowl/upb-seq/align/bams//456-1-B73_x_W22_ftsi_isolate_B_F2_456-1-CTAGCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//456-2-B73_x_W22_ftsi_isolate_B_F2_456-2-CTCTCAGT.bam
+/mnt/ghowl/upb-seq/align/bams//456-3-B73_x_W22_ftsi_isolate_B_F2_456-3-GTACTGCA.bam
+/mnt/ghowl/upb-seq/align/bams//456-4-B73_x_W22_ftsi_isolate_B_F2_456-4-CTTCCATG.bam
+/mnt/ghowl/upb-seq/align/bams//456-5-B73_x_W22_ftsi_isolate_B_F2_456-5-TACGAACC.bam
+/mnt/ghowl/upb-seq/align/bams//456-6-B73_x_W22_ftsi_isolate_B_F2_456-6-TACCATGG.bam
+/mnt/ghowl/upb-seq/align/bams//456-7-B73_x_W22_ftsi_isolate_B_F2_456-7-AGCTAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//456-8-B73_x_W22_ftsi_isolate_B_F2_456-8-AGGTAGGT.bam
+/mnt/ghowl/upb-seq/align/bams//456-9-B73_x_W22_ftsi_isolate_B_F2_456-9-CAGTCAGT.bam
+/mnt/ghowl/upb-seq/align/bams//457-10-B73_x_W22_ftsi_isolate_B_F2_457-10-ATCCGGTA.bam
+/mnt/ghowl/upb-seq/align/bams//457-11-B73_x_W22_ftsi_isolate_B_F2_457-11-GACATCAC.bam
+/mnt/ghowl/upb-seq/align/bams//457-12-B73_x_W22_ftsi_isolate_B_F2_457-12-TCGATGGT.bam
+/mnt/ghowl/upb-seq/align/bams//457-13-B73_x_W22_ftsi_isolate_B_F2_457-13-CTGTCAGA.bam
+/mnt/ghowl/upb-seq/align/bams//457-14-B73_x_W22_ftsi_isolate_B_F2_457-14-TGGTACGT.bam
+/mnt/ghowl/upb-seq/align/bams//457-15-B73_x_W22_ftsi_isolate_B_F2_457-15-GATGCATC.bam
+/mnt/ghowl/upb-seq/align/bams//457-16-B73_x_W22_ftsi_isolate_B_F2_457-16-CTTCCAAC.bam
+/mnt/ghowl/upb-seq/align/bams//457-17-B73_x_W22_ftsi_isolate_B_F2_457-17-ACACGTGT.bam
+/mnt/ghowl/upb-seq/align/bams//457-18-B73_x_W22_ftsi_isolate_B_F2_457-18-TAGGCCAT.bam
+/mnt/ghowl/upb-seq/align/bams//457-1-B73_x_W22_ftsi_isolate_B_F2_457-1-GCTTCCTA.bam
+/mnt/ghowl/upb-seq/align/bams//457-2-B73_x_W22_ftsi_isolate_B_F2_457-2-GCTTAACG.bam
+/mnt/ghowl/upb-seq/align/bams//457-3-B73_x_W22_ftsi_isolate_B_F2_457-3-GTACCAAC.bam
+/mnt/ghowl/upb-seq/align/bams//457-4-B73_x_W22_ftsi_isolate_B_F2_457-4-GAAGTCCT.bam
+/mnt/ghowl/upb-seq/align/bams//457-5-B73_x_W22_ftsi_isolate_B_F2_457-5-CCAATACG.bam
+/mnt/ghowl/upb-seq/align/bams//457-6-B73_x_W22_ftsi_isolate_B_F2_457-6-AGCTCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//457-7-B73_x_W22_ftsi_isolate_B_F2_457-7-CGTAGCTA.bam
+/mnt/ghowl/upb-seq/align/bams//457-8-B73_x_W22_ftsi_isolate_B_F2_457-8-CTCTCACA.bam
+/mnt/ghowl/upb-seq/align/bams//457-9-B73_x_W22_ftsi_isolate_B_F2_457-9-TGACCACA.bam
+/mnt/ghowl/upb-seq/align/bams//458-10-B73_x_W22_ftsi_isolate_B_F2_458-10-ACTGACTG.bam
+/mnt/ghowl/upb-seq/align/bams//458-11-B73_x_W22_ftsi_isolate_B_F2_458-11-GGAAGCAT.bam
+/mnt/ghowl/upb-seq/align/bams//458-12-B73_x_W22_ftsi_isolate_B_F2_458-12-CCATATGG.bam
+/mnt/ghowl/upb-seq/align/bams//458-13-B73_x_W22_ftsi_isolate_B_F2_458-13-CAGTTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//458-14-B73_x_W22_ftsi_isolate_B_F2_458-14-ACACGTCA.bam
+/mnt/ghowl/upb-seq/align/bams//458-15-B73_x_W22_ftsi_isolate_B_F2_458-15-ACCAACGT.bam
+/mnt/ghowl/upb-seq/align/bams//458-16-B73_x_W22_ftsi_isolate_B_F2_458-16-GATCAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//458-17-B73_x_W22_ftsi_isolate_B_F2_458-17-CGTAGCAT.bam
+/mnt/ghowl/upb-seq/align/bams//458-1-B73_x_W22_ftsi_isolate_B_F2_458-1-CTGTACAG.bam
+/mnt/ghowl/upb-seq/align/bams//458-2-B73_x_W22_ftsi_isolate_B_F2_458-2-TCGAGTTG.bam
+/mnt/ghowl/upb-seq/align/bams//458-3-B73_x_W22_ftsi_isolate_B_F2_458-3-AAGGTTCC.bam
+/mnt/ghowl/upb-seq/align/bams//458-4-B73_x_W22_ftsi_isolate_B_F2_458-4-GCCGTATA.bam
+/mnt/ghowl/upb-seq/align/bams//458-5-B73_x_W22_ftsi_isolate_B_F2_458-5-ACCTGTTC.bam
+/mnt/ghowl/upb-seq/align/bams//458-6-B73_x_W22_ftsi_isolate_B_F2_458-6-ACAGTCAC.bam
+/mnt/ghowl/upb-seq/align/bams//458-7-B73_x_W22_ftsi_isolate_B_F2_458-7-GAGTTCTG.bam
+/mnt/ghowl/upb-seq/align/bams//458-8-B73_x_W22_ftsi_isolate_B_F2_458-8-GCTACGAT.bam
+/mnt/ghowl/upb-seq/align/bams//458-9-B73_x_W22_ftsi_isolate_B_F2_458-9-CTAGAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//459-10-B73_x_W22_ftsi_isolate_B_F2_459-10-GCTATTCC.bam
+/mnt/ghowl/upb-seq/align/bams//459-11-B73_x_W22_ftsi_isolate_B_F2_459-11-CCTAATCC.bam
+/mnt/ghowl/upb-seq/align/bams//459-12-B73_x_W22_ftsi_isolate_B_F2_459-12-CATGCTTC.bam
+/mnt/ghowl/upb-seq/align/bams//459-13-B73_x_W22_ftsi_isolate_B_F2_459-13-TGACGTGT.bam
+/mnt/ghowl/upb-seq/align/bams//459-14-B73_x_W22_ftsi_isolate_B_F2_459-14-ACCACATG.bam
+/mnt/ghowl/upb-seq/align/bams//459-15-B73_x_W22_ftsi_isolate_B_F2_459-15-GACTTCAG.bam
+/mnt/ghowl/upb-seq/align/bams//459-16-B73_x_W22_ftsi_isolate_B_F2_459-16-ACCAAGGA.bam
+/mnt/ghowl/upb-seq/align/bams//459-17-B73_x_W22_ftsi_isolate_B_F2_459-17-GCCGTTAA.bam
+/mnt/ghowl/upb-seq/align/bams//459-18-B73_x_W22_ftsi_isolate_B_F2_459-18-TGACTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//459-1-B73_x_W22_ftsi_isolate_B_F2_459-1-GTGTTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//459-2-B73_x_W22_ftsi_isolate_B_F2_459-2-AGTGTCTG.bam
+/mnt/ghowl/upb-seq/align/bams//459-3-B73_x_W22_ftsi_isolate_B_F2_459-3-TGGTCATG.bam
+/mnt/ghowl/upb-seq/align/bams//459-4-B73_x_W22_ftsi_isolate_B_F2_459-4-ACTGTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//459-5-B73_x_W22_ftsi_isolate_B_F2_459-5-CTTGTCCA.bam
+/mnt/ghowl/upb-seq/align/bams//459-6-B73_x_W22_ftsi_isolate_B_F2_459-6-CGATCGAT.bam
+/mnt/ghowl/upb-seq/align/bams//459-7-B73_x_W22_ftsi_isolate_B_F2_459-7-AACGTTGC.bam
+/mnt/ghowl/upb-seq/align/bams//459-8-B73_x_W22_ftsi_isolate_B_F2_459-8-TGCACAAC.bam
+/mnt/ghowl/upb-seq/align/bams//459-9-B73_x_W22_ftsi_isolate_B_F2_459-9-CTCTACAC.bam
+/mnt/ghowl/upb-seq/align/bams//461-1-W22_r-g_461-1-TGGTGTAC.bam
+/mnt/ghowl/upb-seq/align/bams//461-2-W22_r-g_461-2-GTACAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//461-3-W22_r-g_461-3-GGTTCCAA.bam
+/mnt/ghowl/upb-seq/align/bams//462-1-W22_ftsi_isolate_A_462-1-GAGACACA.bam
+/mnt/ghowl/upb-seq/align/bams//462-2-W22_ftsi_isolate_A_462-2-GAGTTCAC.bam
+/mnt/ghowl/upb-seq/align/bams//462-3-W22_ftsi_isolate_A_462-3-GCGCTATA.bam
+/mnt/ghowl/upb-seq/align/bams//462-4-W22_ftsi_isolate_A_462-4-GTGAACAG.bam
+/mnt/ghowl/upb-seq/align/bams//462-5-W22_ftsi_isolate_A_462-5-TGCACTAG.bam
+/mnt/ghowl/upb-seq/align/bams//463-1-Early_W22_X_Chalco_teo._101-1__source_of_Mtsi__463-1-AACCGGTT.bam
+/mnt/ghowl/upb-seq/align/bams//463-2-Early_W22_X_Chalco_teo._101-1__source_of_Mtsi__463-2-ATCCTAGG.bam
+/mnt/ghowl/upb-seq/align/bams//464-10-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_464-10-GAACTGCT.bam
+/mnt/ghowl/upb-seq/align/bams//464-11-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_464-11-TGGTCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//464-12-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_464-12-CTACCATC.bam
+/mnt/ghowl/upb-seq/align/bams//464-13-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_464-13-TCCAAGGT.bam
+/mnt/ghowl/upb-seq/align/bams//464-14-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_464-14-CTCATGAG.bam
+/mnt/ghowl/upb-seq/align/bams//464-15-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_464-15-GAGACAGT.bam
+/mnt/ghowl/upb-seq/align/bams//464-1-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_464-1-CAACCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//464-2-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_464-2-AGTGGTCT.bam
+/mnt/ghowl/upb-seq/align/bams//464-3-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_464-3-GGATTAGG.bam
+/mnt/ghowl/upb-seq/align/bams//464-4-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_464-4-GAACCATC.bam
+/mnt/ghowl/upb-seq/align/bams//464-5-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_464-5-ATGCATGC.bam
+/mnt/ghowl/upb-seq/align/bams//464-6-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_464-6-GATCCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//464-7-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_464-7-CAACGTAC.bam
+/mnt/ghowl/upb-seq/align/bams//464-8-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_464-8-GAAGCTTC.bam
+/mnt/ghowl/upb-seq/align/bams//464-9-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_464-9-TAGCTACG.bam
+/mnt/ghowl/upb-seq/align/bams//465-10-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_465-10-TACGAACC.bam
+/mnt/ghowl/upb-seq/align/bams//465-11-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_465-11-TACCATGG.bam
+/mnt/ghowl/upb-seq/align/bams//465-12-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_465-12-AGCTAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//465-1-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_465-1-GTGTCACA.bam
+/mnt/ghowl/upb-seq/align/bams//465-2-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_465-2-GACATCTG.bam
+/mnt/ghowl/upb-seq/align/bams//465-3-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_465-3-CACATGTG.bam
+/mnt/ghowl/upb-seq/align/bams//465-4-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_465-4-CGTACGTA.bam
+/mnt/ghowl/upb-seq/align/bams//465-5-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_465-5-AGGAACGT.bam
+/mnt/ghowl/upb-seq/align/bams//465-6-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_465-6-CTAGCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//465-7-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_465-7-CTCTCAGT.bam
+/mnt/ghowl/upb-seq/align/bams//465-8-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_465-8-GTACTGCA.bam
+/mnt/ghowl/upb-seq/align/bams//465-9-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_465-9-CTTCCATG.bam
+/mnt/ghowl/upb-seq/align/bams//466-10-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_466-10-GAAGTCCT.bam
+/mnt/ghowl/upb-seq/align/bams//466-11-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_466-11-CCAATACG.bam
+/mnt/ghowl/upb-seq/align/bams//466-12-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_466-12-AGCTCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//466-13-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_466-13-CGTAGCTA.bam
+/mnt/ghowl/upb-seq/align/bams//466-1-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_466-1-AGGTAGGT.bam
+/mnt/ghowl/upb-seq/align/bams//466-2-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_466-2-CAGTCAGT.bam
+/mnt/ghowl/upb-seq/align/bams//466-3-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_466-3-CAAGCTTG.bam
+/mnt/ghowl/upb-seq/align/bams//466-4-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_466-4-AACCTTGG.bam
+/mnt/ghowl/upb-seq/align/bams//466-5-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_466-5-ATCGTAGC.bam
+/mnt/ghowl/upb-seq/align/bams//466-6-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_466-6-CACTAGAC.bam
+/mnt/ghowl/upb-seq/align/bams//466-7-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_466-7-GCTTCCTA.bam
+/mnt/ghowl/upb-seq/align/bams//466-8-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_466-8-GCTTAACG.bam
+/mnt/ghowl/upb-seq/align/bams//466-9-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_466-9-GTACCAAC.bam
+/mnt/ghowl/upb-seq/align/bams//467-10-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_467-10-ACACGTGT.bam
+/mnt/ghowl/upb-seq/align/bams//467-11-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_467-11-TAGGCCAT.bam
+/mnt/ghowl/upb-seq/align/bams//467-12-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_467-12-CTGTACAG.bam
+/mnt/ghowl/upb-seq/align/bams//467-1-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_467-1-CTCTCACA.bam
+/mnt/ghowl/upb-seq/align/bams//467-2-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_467-2-TGACCACA.bam
+/mnt/ghowl/upb-seq/align/bams//467-3-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_467-3-ATCCGGTA.bam
+/mnt/ghowl/upb-seq/align/bams//467-4-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_467-4-GACATCAC.bam
+/mnt/ghowl/upb-seq/align/bams//467-5-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_467-5-TCGATGGT.bam
+/mnt/ghowl/upb-seq/align/bams//467-6-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_467-6-CTGTCAGA.bam
+/mnt/ghowl/upb-seq/align/bams//467-7-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_467-7-TGGTACGT.bam
+/mnt/ghowl/upb-seq/align/bams//467-8-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_467-8-GATGCATC.bam
+/mnt/ghowl/upb-seq/align/bams//467-9-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8884-106_467-9-CTTCCAAC.bam
+/mnt/ghowl/upb-seq/align/bams//468-10-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_468-10-GGAAGCAT.bam
+/mnt/ghowl/upb-seq/align/bams//468-11-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_468-11-CCATATGG.bam
+/mnt/ghowl/upb-seq/align/bams//468-12-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_468-12-CAGTTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//468-13-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_468-13-ACACGTCA.bam
+/mnt/ghowl/upb-seq/align/bams//468-1-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_468-1-TCGAGTTG.bam
+/mnt/ghowl/upb-seq/align/bams//468-2-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_468-2-AAGGTTCC.bam
+/mnt/ghowl/upb-seq/align/bams//468-3-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_468-3-GCCGTATA.bam
+/mnt/ghowl/upb-seq/align/bams//468-4-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_468-4-ACCTGTTC.bam
+/mnt/ghowl/upb-seq/align/bams//468-5-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_468-5-ACAGTCAC.bam
+/mnt/ghowl/upb-seq/align/bams//468-6-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_468-6-GAGTTCTG.bam
+/mnt/ghowl/upb-seq/align/bams//468-7-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_468-7-GCTACGAT.bam
+/mnt/ghowl/upb-seq/align/bams//468-8-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_468-8-CTAGAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//468-9-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_468-9-ACTGACTG.bam
+/mnt/ghowl/upb-seq/align/bams//469-10-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_469-10-AACGTTGC.bam
+/mnt/ghowl/upb-seq/align/bams//469-11-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_469-11-TGCACAAC.bam
+/mnt/ghowl/upb-seq/align/bams//469-12-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_469-12-CTCTACAC.bam
+/mnt/ghowl/upb-seq/align/bams//469-13-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_469-13-GCTATTCC.bam
+/mnt/ghowl/upb-seq/align/bams//469-14-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_469-14-CCTAATCC.bam
+/mnt/ghowl/upb-seq/align/bams//469-1-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_469-1-ACCAACGT.bam
+/mnt/ghowl/upb-seq/align/bams//469-2-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_469-2-GATCAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//469-3-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_469-3-CGTAGCAT.bam
+/mnt/ghowl/upb-seq/align/bams//469-4-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_469-4-GTGTTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//469-5-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_469-5-AGTGTCTG.bam
+/mnt/ghowl/upb-seq/align/bams//469-6-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_469-6-TGGTCATG.bam
+/mnt/ghowl/upb-seq/align/bams//469-7-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_469-7-ACTGTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//469-8-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_469-8-CTTGTCCA.bam
+/mnt/ghowl/upb-seq/align/bams//469-9-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_469-9-CGATCGAT.bam
+/mnt/ghowl/upb-seq/align/bams//470-10-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_470-10-GGTTCCAA.bam
+/mnt/ghowl/upb-seq/align/bams//470-11-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_470-11-GAGACACA.bam
+/mnt/ghowl/upb-seq/align/bams//470-12-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_470-12-GAGTTCAC.bam
+/mnt/ghowl/upb-seq/align/bams//470-13-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_470-13-GCGCTATA.bam
+/mnt/ghowl/upb-seq/align/bams//470-1-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_470-1-CATGCTTC.bam
+/mnt/ghowl/upb-seq/align/bams//470-2-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_470-2-TGACGTGT.bam
+/mnt/ghowl/upb-seq/align/bams//470-3-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_470-3-ACCACATG.bam
+/mnt/ghowl/upb-seq/align/bams//470-4-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_470-4-GACTTCAG.bam
+/mnt/ghowl/upb-seq/align/bams//470-5-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_470-5-ACCAAGGA.bam
+/mnt/ghowl/upb-seq/align/bams//470-6-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_470-6-GCCGTTAA.bam
+/mnt/ghowl/upb-seq/align/bams//470-7-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_470-7-TGACTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//470-8-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_470-8-TGGTGTAC.bam
+/mnt/ghowl/upb-seq/align/bams//470-9-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_470-9-GTACAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//471-10-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_471-10-GATCCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//471-11-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_471-11-CAACGTAC.bam
+/mnt/ghowl/upb-seq/align/bams//471-12-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_471-12-GAAGCTTC.bam
+/mnt/ghowl/upb-seq/align/bams//471-1-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_471-1-GTGAACAG.bam
+/mnt/ghowl/upb-seq/align/bams//471-2-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_471-2-TGCACTAG.bam
+/mnt/ghowl/upb-seq/align/bams//471-3-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_471-3-AACCGGTT.bam
+/mnt/ghowl/upb-seq/align/bams//471-4-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_471-4-ATCCTAGG.bam
+/mnt/ghowl/upb-seq/align/bams//471-5-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_471-5-CAACCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//471-6-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_471-6-AGTGGTCT.bam
+/mnt/ghowl/upb-seq/align/bams//471-7-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_471-7-GGATTAGG.bam
+/mnt/ghowl/upb-seq/align/bams//471-8-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_471-8-GAACCATC.bam
+/mnt/ghowl/upb-seq/align/bams//471-9-ftsi_x__Mtsi_+__extracted_from_Teo._Col._101 JKP8874x8885-114_471-9-ATGCATGC.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-6-A12-Blank_Blank-6-A12-TGGTCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-6-B12-Blank_Blank-6-B12-CTACCATC.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-6-C12-Blank_Blank-6-C12-TCCAAGGT.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-6-D12-Blank_Blank-6-D12-CTCATGAG.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-6-E12-Blank_Blank-6-E12-GAGACAGT.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-6-F12-Blank_Blank-6-F12-GTGTCACA.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-6-G11-Blank_Blank-6-G11-TAGCTACG.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-6-G12-Blank_Blank-6-G12-GACATCTG.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-6-H11-Blank_Blank-6-H11-GAACTGCT.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-6-H12-Blank_Blank-6-H12-CACATGTG.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-8-A12-Blank_Blank-8-A12-TGGTCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-8-B12-Blank_Blank-8-B12-CTACCATC.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-8-C12-Blank_Blank-8-C12-TCCAAGGT.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-8-D12-Blank_Blank-8-D12-CTCATGAG.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-8-E12-Blank_Blank-8-E12-GAGACAGT.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-8-F11-Blank_Blank-8-F11-GAAGCTTC.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-8-F12-Blank_Blank-8-F12-GTGTCACA.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-8-G11-Blank_Blank-8-G11-TAGCTACG.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-8-G12-Blank_Blank-8-G12-GACATCTG.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-8-H11-Blank_Blank-8-H11-GAACTGCT.bam
+/mnt/ghowl/upb-seq/align/bams//Blank-8-H12-Blank_Blank-8-H12-CACATGTG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-10-Sibs_of_Isolate_D_P8960-10-AGGTAGGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-11-Sibs_of_Isolate_D_P8960-11-CAGTCAGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-12-Sibs_of_Isolate_D_P8960-12-CAAGCTTG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-13-Sibs_of_Isolate_D_P8960-13-AACCTTGG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-14-Sibs_of_Isolate_D_P8960-14-ATCGTAGC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-15-Sibs_of_Isolate_D_P8960-15-CACTAGAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-16-Sibs_of_Isolate_D_P8960-16-GCTTCCTA.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-17-Sibs_of_Isolate_D_P8960-17-GCTTAACG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-18-Sibs_of_Isolate_D_P8960-18-GTACCAAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-19-Sibs_of_Isolate_D_P8960-19-GAAGTCCT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-1-Sibs_of_Isolate_D_P8960-1-CGTACGTA.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-20-Sibs_of_Isolate_D_P8960-20-CCAATACG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-21-Sibs_of_Isolate_D_P8960-21-AGCTCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-22-Sibs_of_Isolate_D_P8960-22-CGTAGCTA.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-23-Sibs_of_Isolate_D_P8960-23-CTCTCACA.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-24-Sibs_of_Isolate_D_P8960-24-TGACCACA.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-25-Sibs_of_Isolate_D_P8960-25-ATCCGGTA.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-26-Sibs_of_Isolate_D_P8960-26-GACATCAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-27-Sibs_of_Isolate_D_P8960-27-TCGATGGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-28-Sibs_of_Isolate_D_P8960-28-CTGTCAGA.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-29-Sibs_of_Isolate_D_P8960-29-TGGTACGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-2-Sibs_of_Isolate_D_P8960-2-AGGAACGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-30-Sibs_of_Isolate_D_P8960-30-GATGCATC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-31-Sibs_of_Isolate_D_P8960-31-CTTCCAAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-32-Sibs_of_Isolate_D_P8960-32-ACACGTGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-33-Sibs_of_Isolate_D_P8960-33-TAGGCCAT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-34-Sibs_of_Isolate_D_P8960-34-CTGTACAG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-35-Sibs_of_Isolate_D_P8960-35-TCGAGTTG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-36-Sibs_of_Isolate_D_P8960-36-AAGGTTCC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-37-Sibs_of_Isolate_D_P8960-37-GCCGTATA.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-38-Sibs_of_Isolate_D_P8960-38-ACCTGTTC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-39-Sibs_of_Isolate_D_P8960-39-ACAGTCAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-3-Sibs_of_Isolate_D_P8960-3-CTAGCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-40-Sibs_of_Isolate_D_P8960-40-GAGTTCTG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-41-Sibs_of_Isolate_D_P8960-41-GCTACGAT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-42-Sibs_of_Isolate_D_P8960-42-CTAGAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-43-Sibs_of_Isolate_D_P8960-43-ACTGACTG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-44-Sibs_of_Isolate_D_P8960-44-GGAAGCAT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-45-Sibs_of_Isolate_D_P8960-45-CCATATGG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-46-Sibs_of_Isolate_D_P8960-46-CAGTTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-47-Sibs_of_Isolate_D_P8960-47-ACACGTCA.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-48-Sibs_of_Isolate_D_P8960-48-ACCAACGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-49-Sibs_of_Isolate_D_P8960-49-GATCAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-4-Sibs_of_Isolate_D_P8960-4-CTCTCAGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-50-Sibs_of_Isolate_D_P8960-50-CGTAGCAT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-51-Sibs_of_Isolate_D_P8960-51-GTGTTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-52-Sibs_of_Isolate_D_P8960-52-AGTGTCTG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-53-Sibs_of_Isolate_D_P8960-53-TGGTCATG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-54-Sibs_of_Isolate_D_P8960-54-ACTGTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-55-Sibs_of_Isolate_D_P8960-55-CTTGTCCA.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-56-Sibs_of_Isolate_D_P8960-56-CGATCGAT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-57-Sibs_of_Isolate_D_P8960-57-AACGTTGC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-58-Sibs_of_Isolate_D_P8960-58-TGCACAAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-59-Sibs_of_Isolate_D_P8960-59-CTCTACAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-5-Sibs_of_Isolate_D_P8960-5-GTACTGCA.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-60-Sibs_of_Isolate_D_P8960-60-GCTATTCC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-61-Sibs_of_Isolate_D_P8960-61-CCTAATCC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-62-Sibs_of_Isolate_D_P8960-62-CATGCTTC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-63-Sibs_of_Isolate_D_P8960-63-TGACGTGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-64-Sibs_of_Isolate_D_P8960-64-ACCACATG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-65-Sibs_of_Isolate_D_P8960-65-GACTTCAG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-66-Sibs_of_Isolate_D_P8960-66-ACCAAGGA.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-67-Sibs_of_Isolate_D_P8960-67-GCCGTTAA.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-68-Sibs_of_Isolate_D_P8960-68-TGACTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-69-Sibs_of_Isolate_D_P8960-69-TGGTGTAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-6-Sibs_of_Isolate_D_P8960-6-CTTCCATG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-70-Sibs_of_Isolate_D_P8960-70-GTACAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-71-Sibs_of_Isolate_D_P8960-71-GGTTCCAA.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-72-Sibs_of_Isolate_D_P8960-72-GAGACACA.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-73-Sibs_of_Isolate_D_P8960-73-GAGTTCAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-74-Sibs_of_Isolate_D_P8960-74-GCGCTATA.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-7-Sibs_of_Isolate_D_P8960-7-TACGAACC.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-8-Sibs_of_Isolate_D_P8960-8-TACCATGG.bam
+/mnt/ghowl/upb-seq/align/bams//P8960-9-Sibs_of_Isolate_D_P8960-9-AGCTAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-10-Sibs_of_Population_B_P8962-10-GATCCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-11-Sibs_of_Population_B_P8962-11-CAACGTAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-12-Sibs_of_Population_B_P8962-12-GAAGCTTC.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-13-Sibs_of_Population_B_P8962-13-TAGCTACG.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-14-Sibs_of_Population_B_P8962-14-GAACTGCT.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-15-Sibs_of_Population_B_P8962-15-TGGTCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-16-Sibs_of_Population_B_P8962-16-CTACCATC.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-17-Sibs_of_Population_B_P8962-17-TCCAAGGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-18-Sibs_of_Population_B_P8962-18-CTCATGAG.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-19-Sibs_of_Population_B_P8962-19-GAGACAGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-1-Sibs_of_Population_B_P8962-1-GTGAACAG.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-20-Sibs_of_Population_B_P8962-20-GTGTCACA.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-21-Sibs_of_Population_B_P8962-21-GACATCTG.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-22-Sibs_of_Population_B_P8962-22-CACATGTG.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-23-Sibs_of_Population_B_P8962-23-CGTACGTA.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-24-Sibs_of_Population_B_P8962-24-AGGAACGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-25-Sibs_of_Population_B_P8962-25-CTAGCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-26-Sibs_of_Population_B_P8962-26-CTCTCAGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-27-Sibs_of_Population_B_P8962-27-GTACTGCA.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-28-Sibs_of_Population_B_P8962-28-CTTCCATG.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-29-Sibs_of_Population_B_P8962-29-TACGAACC.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-2-Sibs_of_Population_B_P8962-2-TGCACTAG.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-30-Sibs_of_Population_B_P8962-30-TACCATGG.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-31-Sibs_of_Population_B_P8962-31-AGCTAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-32-Sibs_of_Population_B_P8962-32-AGGTAGGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-33-Sibs_of_Population_B_P8962-33-CAGTCAGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-34-Sibs_of_Population_B_P8962-34-CAAGCTTG.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-35-Sibs_of_Population_B_P8962-35-AACCTTGG.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-36-Sibs_of_Population_B_P8962-36-ATCGTAGC.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-3-Sibs_of_Population_B_P8962-3-AACCGGTT.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-4-Sibs_of_Population_B_P8962-4-ATCCTAGG.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-5-Sibs_of_Population_B_P8962-5-CAACCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-6-Sibs_of_Population_B_P8962-6-AGTGGTCT.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-7-Sibs_of_Population_B_P8962-7-GGATTAGG.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-8-Sibs_of_Population_B_P8962-8-GAACCATC.bam
+/mnt/ghowl/upb-seq/align/bams//P8962-9-Sibs_of_Population_B_P8962-9-ATGCATGC.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-10-Sibs_of_Population_B_P8963-10-TGACCACA.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-11-Sibs_of_Population_B_P8963-11-ATCCGGTA.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-12-Sibs_of_Population_B_P8963-12-GACATCAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-13-Sibs_of_Population_B_P8963-13-TCGATGGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-14-Sibs_of_Population_B_P8963-14-CTGTCAGA.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-15-Sibs_of_Population_B_P8963-15-TGGTACGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-16-Sibs_of_Population_B_P8963-16-GATGCATC.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-17-Sibs_of_Population_B_P8963-17-CTTCCAAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-18-Sibs_of_Population_B_P8963-18-ACACGTGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-19-Sibs_of_Population_B_P8963-19-TAGGCCAT.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-1-Sibs_of_Population_B_P8963-1-CACTAGAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-20-Sibs_of_Population_B_P8963-20-CTGTACAG.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-21-Sibs_of_Population_B_P8963-21-TCGAGTTG.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-22-Sibs_of_Population_B_P8963-22-AAGGTTCC.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-23-Sibs_of_Population_B_P8963-23-GCCGTATA.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-24-Sibs_of_Population_B_P8963-24-ACCTGTTC.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-25-Sibs_of_Population_B_P8963-25-ACAGTCAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-26-Sibs_of_Population_B_P8963-26-GAGTTCTG.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-27-Sibs_of_Population_B_P8963-27-GCTACGAT.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-28-Sibs_of_Population_B_P8963-28-CTAGAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-29-Sibs_of_Population_B_P8963-29-ACTGACTG.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-2-Sibs_of_Population_B_P8963-2-GCTTCCTA.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-30-Sibs_of_Population_B_P8963-30-GGAAGCAT.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-31-Sibs_of_Population_B_P8963-31-CCATATGG.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-32-Sibs_of_Population_B_P8963-32-CAGTTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-33-Sibs_of_Population_B_P8963-33-ACACGTCA.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-34-Sibs_of_Population_B_P8963-34-ACCAACGT.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-35-Sibs_of_Population_B_P8963-35-GATCAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-36-Sibs_of_Population_B_P8963-36-CGTAGCAT.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-37-Sibs_of_Population_B_P8963-37-GTGTTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-3-Sibs_of_Population_B_P8963-3-GCTTAACG.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-4-Sibs_of_Population_B_P8963-4-GTACCAAC.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-5-Sibs_of_Population_B_P8963-5-GAAGTCCT.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-6-Sibs_of_Population_B_P8963-6-CCAATACG.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-7-Sibs_of_Population_B_P8963-7-AGCTCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-8-Sibs_of_Population_B_P8963-8-CGTAGCTA.bam
+/mnt/ghowl/upb-seq/align/bams//P8963-9-Sibs_of_Population_B_P8963-9-CTCTCACA.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-10-W22_r-g_grandparent_of_P8960_P9016-10-CCTAATCC.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-11-W22_r-g_grandparent_of_P8960_P9016-11-CATGCTTC.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-12-W22_r-g_grandparent_of_P8960_P9016-12-TGACGTGT.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-13-W22_r-g_grandparent_of_P8960_P9016-13-ACCACATG.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-14-W22_r-g_grandparent_of_P8960_P9016-14-GACTTCAG.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-15-W22_r-g_grandparent_of_P8960_P9016-15-ACCAAGGA.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-16-W22_r-g_grandparent_of_P8960_P9016-16-GCCGTTAA.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-17-W22_r-g_grandparent_of_P8960_P9016-17-TGACTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-18-W22_r-g_grandparent_of_P8960_P9016-18-TGGTGTAC.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-1-W22_r-g_grandparent_of_P8960_P9016-1-AGTGTCTG.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-2-W22_r-g_grandparent_of_P8960_P9016-2-TGGTCATG.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-3-W22_r-g_grandparent_of_P8960_P9016-3-ACTGTGAC.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-4-W22_r-g_grandparent_of_P8960_P9016-4-CTTGTCCA.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-5-W22_r-g_grandparent_of_P8960_P9016-5-CGATCGAT.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-6-W22_r-g_grandparent_of_P8960_P9016-6-AACGTTGC.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-7-W22_r-g_grandparent_of_P8960_P9016-7-TGCACAAC.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-8-W22_r-g_grandparent_of_P8960_P9016-8-CTCTACAC.bam
+/mnt/ghowl/upb-seq/align/bams//P9016-9-W22_r-g_grandparent_of_P8960_P9016-9-GCTATTCC.bam
+/mnt/ghowl/upb-seq/align/bams//P9017-10-BC3_ftsi___+_F2_grandparent_of_P8960_P9017-10-CAACCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//P9017-11-BC3_ftsi___+_F2_grandparent_of_P8960_P9017-11-AGTGGTCT.bam
+/mnt/ghowl/upb-seq/align/bams//P9017-12-BC3_ftsi___+_F2_grandparent_of_P8960_P9017-12-GGATTAGG.bam
+/mnt/ghowl/upb-seq/align/bams//P9017-13-BC3_ftsi___+_F2_grandparent_of_P8960_P9017-13-GAACCATC.bam
+/mnt/ghowl/upb-seq/align/bams//P9017-14-BC3_ftsi___+_F2_grandparent_of_P8960_P9017-14-ATGCATGC.bam
+/mnt/ghowl/upb-seq/align/bams//P9017-15-BC3_ftsi___+_F2_grandparent_of_P8960_P9017-15-GATCCTAG.bam
+/mnt/ghowl/upb-seq/align/bams//P9017-16-BC3_ftsi___+_F2_grandparent_of_P8960_P9017-16-CAACGTAC.bam
+/mnt/ghowl/upb-seq/align/bams//P9017-1-BC3_ftsi___+_F2_grandparent_of_P8960_P9017-1-GTACAGCT.bam
+/mnt/ghowl/upb-seq/align/bams//P9017-2-BC3_ftsi___+_F2_grandparent_of_P8960_P9017-2-GGTTCCAA.bam
+/mnt/ghowl/upb-seq/align/bams//P9017-3-BC3_ftsi___+_F2_grandparent_of_P8960_P9017-3-GAGACACA.bam
+/mnt/ghowl/upb-seq/align/bams//P9017-4-BC3_ftsi___+_F2_grandparent_of_P8960_P9017-4-GAGTTCAC.bam
+/mnt/ghowl/upb-seq/align/bams//P9017-5-BC3_ftsi___+_F2_grandparent_of_P8960_P9017-5-GCGCTATA.bam
+/mnt/ghowl/upb-seq/align/bams//P9017-6-BC3_ftsi___+_F2_grandparent_of_P8960_P9017-6-GTGAACAG.bam
+/mnt/ghowl/upb-seq/align/bams//P9017-7-BC3_ftsi___+_F2_grandparent_of_P8960_P9017-7-TGCACTAG.bam
+/mnt/ghowl/upb-seq/align/bams//P9017-8-BC3_ftsi___+_F2_grandparent_of_P8960_P9017-8-AACCGGTT.bam
+/mnt/ghowl/upb-seq/align/bams//P9017-9-BC3_ftsi___+_F2_grandparent_of_P8960_P9017-9-ATCCTAGG.bam

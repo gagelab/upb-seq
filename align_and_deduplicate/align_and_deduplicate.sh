@@ -18,6 +18,9 @@ DATADIR=/mnt/ghowl/upb-seq/
 FQDIR=/mnt/ghowl/upb-seq/demultiplex_fastqs/fastqs/
 REFPATH=https://download.maizegdb.org/Zm-B73-REFERENCE-NAM-5.0/Zm-B73-REFERENCE-NAM-5.0.fa.gz
 
+# Options for getting sample info
+LIBFIELD=7
+
 # Download and index the B73 reference genome:
 REF=$( basename $REFPATH | sed 's/.gz//' )
 INDEX=$DATADIR/genome/${REF%%.fa}
@@ -41,6 +44,21 @@ do
     continue
   fi
 
+  # Define info fields for read group
+  # LIBRARY
+  LB=$( echo $SAMPLE | cut -f$LIBFIELD -d"/" )
+  # Looks for 8x A,C,G, or T at the end of the sample id ($ indicates end)
+  #  Only returns the matched part (-o)
+  BC=$( echo $SAMPLE | grep -oE "[ACGT]{8}$" )
+  # First sed: match the barcode and remove
+  # Second sed: match sample_id as NNN-N[N] and remove
+  SM=$( basename $SAMPLE | sed 's/-[ACGT]\{8\}$//' | sed 's/[0-9]\{3\}-[0-9]\{1,2\}-//' )
+  # Define info fields for read group
+  # ID needs to have sample name in it in order for freebayes to work properly.
+  ID=$( zcat ${SAMPLE}_R1.fastq.gz | head -1 | cut -f1-4 -d: | sed 's/@//' ):$SM
+  
+
+
   # Create name/path for bam file
   OUT=$DATADIR/align/bams/$( basename $SAMPLE ).bam
   # Run hisat2 to align, then sort, fixmates, and mark 
@@ -50,6 +68,12 @@ do
     --no-spliced-alignment \
     --no-mixed \
     --no-discordant \
+    --rg-id=$ID \
+    --rg LB:$LB \
+    --rg BC:$BC \
+    --rg SM:$SM \
+    --rg PL:ILLUMINA \
+    --rg PM:NovaSeq_6000 \
     -p $NPROC \
     -x $INDEX \
     -1 ${SAMPLE}_R1.fastq.gz \
@@ -60,4 +84,11 @@ do
   samtools fixmate -@ $NPROC} -m - - |\
   samtools sort -@ $NPROC | \
   samtools markdup -@ $NPROC - - > $OUT
+done
+
+# Index all the bams
+for BAM in $DATADIR/align/bams/*.bam
+do
+  echo $BAM
+  samtools index -@ $NPROC -b $BAM
 done

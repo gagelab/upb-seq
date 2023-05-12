@@ -1,0 +1,8 @@
+name: 
+channels:
+- pkgs/main
+dependencies:
+- conda
+- pip
+- python=3.9
+
